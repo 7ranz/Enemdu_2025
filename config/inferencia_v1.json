@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "fecha_decision": "2026-09-29",
+  "nivel_confianza": 0.95,
+  "metodo_varianza": "linealización de Taylor, aproximación con reemplazo, UPM dentro de estratos, sin FPC",
+  "ic_proporcion": "escala logit con transformación inversa",
+  "ic_diferencia": "escala lineal con distribución t y grados de libertad UPM menos estratos",
+  "grados_libertad": 7630,
+  "contrastes_primarios": [
+    {"id": "mujeres_menos_hombres", "variable": "p02", "a": "2", "b": "1"},
+    {"id": "rural_menos_urbana", "variable": "area", "a": "2", "b": "1"},
+    {"id": "superior_no_universitaria_menos_universitaria", "variable": "p10a", "a": "8", "b": "9"},
+    {"id": "posgrado_menos_universitaria", "variable": "p10a", "a": "10", "b": "9"}
+  ],
+  "multiplicidad_contrastes_primarios": "Holm para cuatro valores p",
+  "pruebas_globales": ["p02", "area", "grupo_edad", "p10a", "prov"],
+  "politica_territorio": "intervalos provinciales nominales de 95 %; no realizar comparaciones pareadas ni ranking inferencial en esta etapa",
+  "regla_publicacion": "mostrar n, UPM, estratos, error estándar, IC 95 % y CV; marcar n menor que 100 sin ocultar la estimación",
+  "prueba_predictiva": "no leer ni evaluar prueba_reservada.csv"
+}

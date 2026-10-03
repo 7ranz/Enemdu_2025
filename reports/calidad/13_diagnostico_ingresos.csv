@@ -1,0 +1,5 @@
+﻿variable,dominio,registros,vacios_o_no_numericos,negativos,ceros,codigo_999999,p50_sin_limpieza,p99_sin_limpieza,max_sin_limpieza
+ingrl,todos,334786,188650,1471,2286,480,470.0,3200.0,999999.0
+ingrl,ocupados_candidatos,36906,1412,146,424,268,800.0,6254.969999999979,999999.0
+ingpc,todos,334786,2134,0,0,0,218.8,1706.9799999999814,26667.0
+ingpc,ocupados_candidatos,36906,220,0,0,0,499.0,2849.112500000001,15180.0

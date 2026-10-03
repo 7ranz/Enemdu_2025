@@ -1,0 +1,7 @@
+﻿tabla,clave,filas,claves_distintas,filas_en_claves_repetidas,repeticiones_adicionales
+personas,id_persona,334786,334786,0,0
+personas_mes,id_persona+mes,334786,334786,0,0
+vivienda_hogar,id_hogar,104738,104738,0,0
+vivienda_hogar_mes,id_hogar+mes,104738,104738,0,0
+personas,TODAS_LAS_COLUMNAS,334786,334786,0,0
+vivienda_hogar,TODAS_LAS_COLUMNAS,104738,104738,0,0

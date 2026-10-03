@@ -1,0 +1,33 @@
+{
+  "etapa": "10_documento_y_presentacion",
+  "fecha_cierre": "2026-10-01",
+  "documento": {
+    "ruta": "outputs/final/Informe_metodologico_ENEMDU_2025_APA7.docx",
+    "formato_editable": true,
+    "paginas_renderizadas": 18,
+    "revision_visual": "aprobada",
+    "estilo": "APA 7 con adaptación STROBE, TRIPOD+AI y PROBAST+AI",
+    "sha256": "e4a7fe038f5061194a403f1d34d349f9185620a348fce533e69275b69b4fc63c",
+    "tamano_bytes": 589883,
+    "tablas_editables": 6
+  },
+  "presentacion": {
+    "ruta": "outputs/final/Presentacion_final_ENEMDU_2025.pptx",
+    "formato_editable": true,
+    "diapositivas": 16,
+    "graficos_nativos_editables": 6,
+    "libros_de_datos_incrustados": 6,
+    "revision_estructural": "aprobada",
+    "revision_visual": "aprobada",
+    "logos_en_franja_inferior": [
+      "Facultad de Ciencias",
+      "UCETech",
+      "Ciencia Central",
+      "Universidad Central del Ecuador"
+    ],
+    "sha256": "5629cbbe047321f50facee4cef7d12bc31fe334b865ae5951e194a45da766c9e",
+    "tamano_bytes": 6329087
+  },
+  "coherencia_con_resultados_cerrados": "aprobada",
+  "muestra_de_prueba_reabierta": false
+}

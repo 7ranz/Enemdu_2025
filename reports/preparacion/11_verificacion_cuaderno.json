@@ -1,0 +1,13 @@
+{
+  "estado": "verificado",
+  "celdas": 9,
+  "celdas_codigo_ejecutadas": 4,
+  "errores": 0,
+  "programas_sintaxis_valida": [
+    "02a_leer_bases.py",
+    "02b_verificar_bases.py",
+    "02c_crear_cuaderno_preparacion.py",
+    "02_preparar_base.py"
+  ],
+  "reporte": "docs/06_informe_preparacion.md"
+}

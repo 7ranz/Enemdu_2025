@@ -1,0 +1,15 @@
+{
+  "estado": "verificado",
+  "filas_muestra_completa": 334786,
+  "upm": 7780,
+  "estratos": 150,
+  "grados_libertad": 7630,
+  "estimaciones_con_ic": 47,
+  "contrastes_primarios": 4,
+  "pruebas_globales": 5,
+  "intervalos_proporcion_en_rango": true,
+  "diferencias_reconciliadas": true,
+  "figuras_png": 6,
+  "figuras_svg": 6,
+  "prueba_predictiva_evaluada": false
+}

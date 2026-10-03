@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "fecha_decision": "2026-09-29",
+  "estimando": "porcentaje de empleo adecuado dentro de la PEA de 15 años o más con nivel superior reportado y título",
+  "numerador": "adecuado_descriptivo=1",
+  "denominador": "dominio_estudio=1; incluye empleo no clasificado como ausencia de empleo adecuado",
+  "ponderador": "fexp anual original",
+  "variables": ["p02", "area", "grupo_edad", "p10a", "prov"],
+  "referencias": {"p02": "1", "area": "1", "grupo_edad": "30–34", "p10a": "9", "prov": null},
+  "intervalos_edad": [15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 98, 99],
+  "diferencias": "tasa del grupo menos tasa de referencia y tasa del grupo menos tasa total, en puntos porcentuales",
+  "politica_modelado": "El análisis poblacional agregado no cambia la lista de predictores, hiperparámetros, umbral ni partición predictiva.",
+  "inferencia_posterior": {
+    "metodo": "linealización de Taylor para estimadores de razón y diferencias",
+    "diseno": ["estrato", "upm", "fexp"],
+    "dominio": "conservar todas las filas de la muestra y usar indicadores de dominio y grupo",
+    "fpc": "sin corrección por población finita mientras no exista una variable oficial utilizable",
+    "grados_libertad": "número de UPM menos número de estratos",
+    "intervalos": "logit para proporciones y escala normal para diferencias; decisión a verificar en la etapa inferencial",
+    "advertencia": "no interpretar diferencias descriptivas como significativas antes de calcular errores estándar"
+  }
+}

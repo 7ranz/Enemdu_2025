@@ -1,0 +1,18 @@
+{
+  "estado": "comprobaciones_superadas",
+  "base_original_sin_cambios": true,
+  "reglas": 73,
+  "perfiles_variable_periodo": 2262,
+  "variables_categoricas": 89,
+  "formularios_verificados": 12,
+  "programas_con_sintaxis_valida": 6,
+  "celdas_codigo_ejecutadas_sin_error": 10,
+  "sha256_programas": {
+    "01_auditoria_calidad.py": "c6166df829f1ac8c0f13473e615a968cda081c91b616998fda925f823a1e9005",
+    "01a_revisar_formularios.py": "ec614ad5734b9fbcef7880794832cbaecd6f1b8a9959b490ed9c4fd5ab1edc4a",
+    "01b_crear_cuaderno_calidad.py": "56d512181ad6333391576bbb3d739ab00d334496230f738c5a8de4ccd9c2231a",
+    "01c_validar_etiquetas_oficiales.py": "345d72b5d47131521d373d019712f11724a48bb1d3c217ad8cb4cee2e9867156",
+    "01d_resumir_ingresos.py": "c6dbdb8033fc9458e9de5df961523f62fec999f53762274bb6c871a5e6841f58",
+    "01e_verificar_entrega.py": "e77410e99c180acf5044c423332cd054d3a64a9e44e37c6a0d0a12264b1f8519"
+  }
+}

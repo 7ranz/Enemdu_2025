@@ -1,0 +1,10 @@
+﻿variable,descripcion,rol
+estrato,Estrato del diseño anual,diseño
+upm,"Unidad primaria de muestreo, no identifica personas",diseño
+fexp,Factor de expansión anual,peso
+edad_limite_inferior,Edad; 98 representa 98 años o más,filtro
+adecuado_descriptivo,1 si condact=1 dentro del dominio,indicador
+subempleo_descriptivo,1 si condact=2 o 3 dentro del dominio,indicador
+desempleo_descriptivo,1 si condact=7 u 8 dentro del dominio,indicador
+ingreso_laboral_monto,Ingreso laboral utilizable entre ocupados; sin imputación,resultado secundario
+ingreso_monto_observado,Bandera de disponibilidad del monto dentro del dominio de ingresos,control

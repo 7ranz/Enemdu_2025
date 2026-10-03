@@ -1,0 +1,31 @@
+{
+  "estado": "verificado",
+  "filas_muestra_completa": 334786,
+  "estimaciones_con_ic": 47,
+  "contrastes_primarios": 4,
+  "pruebas_globales": 5,
+  "prueba_manual_varianza": true,
+  "tasa_total_reconciliada": true,
+  "figuras_png": 6,
+  "figuras_svg": 6,
+  "celdas_cuaderno": 15,
+  "celdas_codigo_ejecutadas": 7,
+  "errores_cuaderno": 0,
+  "hojas_excel": [
+    "Resumen",
+    "Tasas",
+    "Contrastes",
+    "Pruebas globales",
+    "Método"
+  ],
+  "xlsx_sha256": "8bf2a91f3485fa4aba310827bd7ea4391dafaf24b6e035d1a2d17bec4bd872ff",
+  "csv_cientifico_sha256": "5df338b681471ebd29196c6849fedd4a1d6a5ee0e473136f8e2e833d4c526220",
+  "cuaderno_sha256": "f4b17eddd827c9f1d58d48221e000375f8ff8c9b668f4306f7b1bcf5494d0047",
+  "prueba_predictiva_evaluada": false,
+  "programas_sintaxis_valida": [
+    "05_inferencia_diseno.py",
+    "05a_preparar_tabla_cientifica.py",
+    "05b_crear_cuaderno_inferencia.py",
+    "05c_verificar_eda06.py"
+  ]
+}

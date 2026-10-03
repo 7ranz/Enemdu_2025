@@ -1,0 +1,6 @@
+﻿variable,categorias,grados_libertad_prueba,estadistico_wald,valor_p,evidencia_global_005,referencia_computacional
+p02,2,1,30.328157706636066,3.64791690478305e-08,True,Hombre
+area,2,1,29.987858075908377,4.34760136020991e-08,True,Urbana
+grupo_edad,15,14,884.8104882996087,7.750852798551494e-180,True,15–19
+p10a,3,2,282.1128160373138,5.495160231691451e-62,True,Post-grado
+prov,24,23,278.84898252535606,8.365289552258493e-46,True,Azuay

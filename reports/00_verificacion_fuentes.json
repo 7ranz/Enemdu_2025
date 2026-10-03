@@ -1,0 +1,142 @@
+{
+  "ejecutado_utc": "2026-09-27T23:20:59.067399+00:00",
+  "fuente": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/anual/2_BDD_DATOS_ABIERTOS_ENEMDU_2025_CSV.zip",
+  "sha256_zip": "a2dc06b14b84ac2908f59313a70676f9b5c1b697b4780e744452585e60dbcbe8",
+  "integridad_crc": "correcta",
+  "inventario": [
+    {
+      "archivo": "BDDenemdu_personas_2025_anual.csv",
+      "bytes": 135879985
+    },
+    {
+      "archivo": "BDDenemdu_vivienda_2025_anual.csv",
+      "bytes": 16327670
+    },
+    {
+      "archivo": "Diccionario de Datos_persona_anual_2025.xlsx",
+      "bytes": 15227
+    },
+    {
+      "archivo": "Diccionario de Datos_vivienda_anual_2025.xlsx",
+      "bytes": 11421
+    },
+    {
+      "archivo": "Metadatos_persona_anual_2025.xlsx",
+      "bytes": 10769
+    },
+    {
+      "archivo": "Metadatos_vivienda_hogar_anual_2025.xlsx",
+      "bytes": 10345
+    }
+  ],
+  "numero_columnas": 139,
+  "columnas_sin_documentar": [],
+  "variables_documentadas_ausentes": [],
+  "registros_personas": 334786,
+  "registros_por_mes": {
+    "01": 28320,
+    "02": 28303,
+    "03": 27932,
+    "04": 28092,
+    "05": 27903,
+    "06": 28072,
+    "07": 27509,
+    "08": 27580,
+    "09": 27332,
+    "10": 27809,
+    "11": 28126,
+    "12": 27808
+  },
+  "nivel_por_titulo": [
+    {
+      "p10a": "",
+      "p12a": "",
+      "n": 17399
+    },
+    {
+      "p10a": "1",
+      "p12a": "",
+      "n": 9083
+    },
+    {
+      "p10a": "10",
+      "p12a": "1",
+      "n": 8373
+    },
+    {
+      "p10a": "2",
+      "p12a": "",
+      "n": 362
+    },
+    {
+      "p10a": "4",
+      "p12a": "",
+      "n": 63430
+    },
+    {
+      "p10a": "5",
+      "p12a": "",
+      "n": 63885
+    },
+    {
+      "p10a": "6",
+      "p12a": "",
+      "n": 62707
+    },
+    {
+      "p10a": "7",
+      "p12a": "",
+      "n": 46642
+    },
+    {
+      "p10a": "8",
+      "p12a": "1",
+      "n": 7538
+    },
+    {
+      "p10a": "8",
+      "p12a": "2",
+      "n": 2188
+    },
+    {
+      "p10a": "9",
+      "p12a": "1",
+      "n": 32368
+    },
+    {
+      "p10a": "9",
+      "p12a": "2",
+      "n": 20811
+    }
+  ],
+  "condact_codigos": {
+    "0": 67897,
+    "1": 70722,
+    "2": 27111,
+    "3": 1944,
+    "4": 48140,
+    "5": 13539,
+    "6": 450,
+    "7": 6803,
+    "8": 736,
+    "9": 97444
+  },
+  "candidatos_por_mes": {
+    "01": 3286,
+    "02": 3174,
+    "03": 3263,
+    "04": 3297,
+    "05": 3243,
+    "06": 3318,
+    "07": 3289,
+    "08": 3314,
+    "09": 3306,
+    "10": 3343,
+    "11": 3359,
+    "12": 3359
+  },
+  "candidatos_total": 39551,
+  "titulo_invalido_o_faltante_en_superior_por_mes": {},
+  "edades_no_interpretables": 0,
+  "limite": "Auditoría preliminar; no verifica personas únicas, diseño completo ni asociaciones. No es una estimación poblacional."
+}

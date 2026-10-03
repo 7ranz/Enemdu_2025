@@ -1,0 +1,10 @@
+{
+  "estado": "verificado",
+  "prueba_reservada_leida": false,
+  "tablas_csv": 9,
+  "figuras_png": 6,
+  "figuras_svg": 6,
+  "porcentajes_categoricos_suman_100": true,
+  "ingresos_no_negativos": true,
+  "manifiesto_sha256": "d9788f67a8f2a32b7bbed50d393cd1858d510cf6fd9b0a5ff203760eed261d19"
+}

@@ -1,0 +1,17 @@
+{
+  "estado": "completada_y_cerrada",
+  "fecha": "2026-09-30",
+  "sha256_prueba": "1763f3a95dcade1340e4fb7abea2b72451892048d9787016726d58ef0d38473b",
+  "sha256_predicciones": "e20aa2fd19c8975954e25a199e094de1d47eaebe49deffa7d17a758a3ebc2c6c",
+  "modelos_aplicados": [
+    "logistica_predictiva_congelada.joblib",
+    "boosting_congelado.joblib"
+  ],
+  "umbrales_aplicados": {
+    "base": 0.4999999999999998,
+    "logistica": 0.6949999999999997,
+    "boosting": 0.7049999999999997
+  },
+  "replicas_bootstrap_validas": 1000,
+  "se_permite_repetir_puntuacion": false
+}

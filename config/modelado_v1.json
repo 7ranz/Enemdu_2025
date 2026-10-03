@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "fecha_congelacion": "2026-09-30",
+  "semilla": 20250928,
+  "archivo_desarrollo": "data/processed/modelado/entrenamiento.csv",
+  "archivo_prueba_reservada": "data/processed/modelado/prueba_reservada.csv",
+  "politica_prueba": "No leer, perfilar ni evaluar la prueba reservada durante el desarrollo. Evaluarla una sola vez después de congelar modelos, hiperparámetros, umbrales y análisis.",
+  "pliegues": [1, 2, 3, 4, 5],
+  "unidad_pliegue": "UPM",
+  "peso": "fexp",
+  "objetivo": "y_adecuado",
+  "predictores_numericos": ["edad_limite_inferior", "edad_98_mas"],
+  "predictores_categoricos": ["p02", "p06", "p07", "p10a", "p15", "prov", "area", "mes"],
+  "metrica_seleccion": "roc_auc_ponderada_media_pliegues",
+  "desempate": "brier_ponderado_medio_menor",
+  "regla_umbral": "maximizar exactitud_balanceada_ponderada_OOF; desempatar por cercania a 0.5",
+  "rejilla_umbral": [0.05, 0.95, 0.005],
+  "candidatos_logistica_C": [0.1, 1.0, 10.0],
+  "candidatos_boosting": [
+    {"learning_rate": 0.05, "max_leaf_nodes": 15, "min_samples_leaf": 50, "l2_regularization": 1.0, "max_iter": 250},
+    {"learning_rate": 0.05, "max_leaf_nodes": 31, "min_samples_leaf": 50, "l2_regularization": 1.0, "max_iter": 250},
+    {"learning_rate": 0.1, "max_leaf_nodes": 15, "min_samples_leaf": 100, "l2_regularization": 1.0, "max_iter": 180},
+    {"learning_rate": 0.1, "max_leaf_nodes": 31, "min_samples_leaf": 100, "l2_regularization": 1.0, "max_iter": 180}
+  ],
+  "repeticiones_permutacion": 5,
+  "referencias_asociaciones": {"p02": "1", "area": "1", "p10a": "9", "p06": "6", "p07": "2", "p15": "6", "prov": "17", "mes": "01"},
+  "nivel_confianza": 0.95,
+  "nota_inferencial": "Las asociaciones ajustadas son razones de momios condicionales, no efectos causales. La covarianza robusta conserva estratos y UPM del diseño completo mediante contribuciones cero fuera del dominio."
+}

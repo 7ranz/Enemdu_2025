@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "fecha_decision": "2026-09-28",
+  "ambito_descriptivo": "dominio_educacion_superior completo para covariables y faltantes",
+  "ambito_objetivo": "solo entrenamiento para y_adecuado; prueba reservada no evaluada",
+  "variables_numericas": ["edad_limite_inferior"],
+  "variables_categoricas": ["p02", "p06", "p07", "p10a", "p15", "prov", "area", "mes"],
+  "variables_diseno": ["fexp", "estrato", "upm"],
+  "ponderador": "fexp",
+  "cuantiles": [0.0, 0.01, 0.05, 0.25, 0.5, 0.75, 0.9, 0.95, 0.99, 1.0],
+  "intervalos_edad": [15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 98, 99],
+  "intervalos_ingreso": [-0.5, 0.5, 100, 200, 400, 600, 1000, 2000, 5000, 10000, 1000000000],
+  "politica_faltantes": "No imputar. Informar conteo y porcentaje sin ponderar y ponderado. Distinguir ausencia, códigos especiales y fuera de universo en ingresos.",
+  "politica_graficos": "PNG a 200 dpi y SVG editable; paleta apta para daltonismo, eje desde cero en barras, fuente y denominador visibles.",
+  "restriccion_prueba": "No leer prueba_reservada.csv ni calcular su distribución del resultado, prevalencia o métricas."
+}

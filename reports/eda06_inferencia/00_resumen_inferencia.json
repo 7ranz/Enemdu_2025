@@ -1,0 +1,24 @@
+{
+  "estado": "completado",
+  "metodo": "linealización de Taylor, aproximación con reemplazo, UPM dentro de estratos, sin FPC",
+  "grados_libertad": 7630,
+  "t_critico_95": 1.9602749466888594,
+  "tasa_total": 68.85345472865704,
+  "ic95_total": [
+    67.54418664309729,
+    70.13326108958763
+  ],
+  "brecha_mujeres_hombres_pp": -5.9097361447729035,
+  "ic95_mujeres_hombres": [
+    -8.013330833912445,
+    -3.806141455633362
+  ],
+  "p_holm_mujeres_hombres": 1.1299789594659268e-07,
+  "brecha_rural_urbana_pp": -10.97392617872931,
+  "ic95_rural_urbana": [
+    -14.90224113469434,
+    -7.045611222764279
+  ],
+  "p_holm_rural_urbana": 1.1299789594659268e-07,
+  "prueba_predictiva_evaluada": false
+}

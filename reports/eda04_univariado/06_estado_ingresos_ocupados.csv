@@ -1,0 +1,7 @@
+﻿variable,codigo,etiqueta,n,porcentaje,suma_pesos,porcentaje_ponderado
+estado_ingreso_laboral,cero_declarado,cero_declarado,424,1.148864683249336,13985.786059460204,1.0783907495955793
+estado_ingreso_laboral,gasta_mas_de_lo_que_gana,gasta_mas_de_lo_que_gana,146,0.3955996314962337,4378.144677669349,0.33758207802672274
+estado_ingreso_laboral,monto_positivo,monto_positivo,34656,93.90343033653065,1214569.0455410474,93.65079788065553
+estado_ingreso_laboral,no_informa,no_informa,268,0.7261691865821276,10916.672702657766,0.8417430960875915
+estado_ingreso_laboral,vacio_no_remunerado,vacio_no_remunerado,981,2.6581043732726384,30558.65039877011,2.3562612619737764
+estado_ingreso_laboral,vacio_otro_ocupado,vacio_otro_ocupado,431,1.1678317888690186,22504.351689146068,1.7352249336607855

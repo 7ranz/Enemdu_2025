@@ -1,0 +1,4 @@
+﻿archivo,filas,bytes,sha256
+data/dashboard/observatorio_enemdu_2025.parquet,39551.0,384286,4f248a9aa3950a8d24d3a3ebc9a662dffdb4378ba1b0f54531d8754822dfd1ab
+data/dashboard/diseno_upm.parquet,7780.0,40014,690f8e387d128cfc9f32e9fb21ac4ad30b0e74cc0cfb7a8e3918bbb90b1dfce2
+data/dashboard/etiquetas_dashboard.json,,1110,aea622f32c4565e6052d23a2d7f0c62309920b538b4a851eb150768344bcea4a

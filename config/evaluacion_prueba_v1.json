@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "fecha_evaluacion": "2026-09-30",
+  "semilla_bootstrap": 20250930,
+  "replicas_bootstrap": 1000,
+  "nivel_confianza": 0.95,
+  "unidad_remuestreo": "UPM dentro de estrato",
+  "modelos": ["base", "logistica", "boosting"],
+  "comparacion_principal": "boosting_menos_logistica",
+  "grupos_auditoria": ["p02", "area"],
+  "metricas_globales": ["roc_auc", "pr_auc", "brier", "log_loss", "sensibilidad", "especificidad", "precision", "exactitud", "exactitud_balanceada", "tasa_predicha_positiva"],
+  "regla": "Aplicar una sola vez los modelos, predictores y umbrales congelados. No reajustar decisiones con los resultados de prueba.",
+  "nota_intervalos": "Intervalos percentiles de bootstrap estratificado por conglomerados: remuestreo de UPM con reemplazo dentro de cada estrato de la prueba."
+}

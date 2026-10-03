@@ -1,0 +1,7 @@
+﻿uso,particion,registros,upm,estratos,suma_fexp_original
+muestra_completa,entrenamiento,267761,6202,150,15367481.738685293
+muestra_completa,prueba,67025,1578,150,3487560.532048785
+dominio_estudio,entrenamiento,31722,5057,150,1114762.0681507355
+dominio_estudio,prueba,7829,1269,149,268012.2805447523
+modelo_principal,entrenamiento,31502,5054,150,1105197.6774319257
+modelo_principal,prueba,7791,1269,149,267004.06120693265

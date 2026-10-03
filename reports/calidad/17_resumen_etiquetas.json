@@ -1,0 +1,19 @@
+{
+  "variables_categoricas_validadas": 89,
+  "sin_catalogo": [],
+  "alertas_anuales": [],
+  "columnas_sav_no_csv": [],
+  "columnas_csv_no_sav": [],
+  "ingrl_etiquetas": {
+    "-1.0": "Gasta mas de lo que gana",
+    "999999.0": "No informa"
+  },
+  "edad_etiquetas": {
+    "98.0": " 98 y más",
+    "99.0": " No informa"
+  },
+  "filas_prefijo_upm_distinto_ciudad": 1787,
+  "filas_prefijo_upm_distinto_conglomerado": 0,
+  "filas_provincia_prefijo_upm_distinta_prov": 0,
+  "limite": "Un código no etiquetado es una señal de revisión; no se elimina automáticamente. Las categorías no prueban todos los saltos del cuestionario."
+}

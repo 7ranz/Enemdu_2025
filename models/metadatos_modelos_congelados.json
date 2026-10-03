@@ -1,0 +1,68 @@
+{
+  "estado": "congelado_sin_evaluar_prueba",
+  "fecha_congelacion": "2026-09-30",
+  "sha256_entrenamiento": "058f2f7b7f269bb011240c6a038aae6890398f09e16a6993f71f83b091def2f4",
+  "filas_entrenamiento": 31502,
+  "upm_entrenamiento": 5054,
+  "pliegues": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "predictores": [
+    "edad_limite_inferior",
+    "edad_98_mas",
+    "p02",
+    "p06",
+    "p07",
+    "p10a",
+    "p15",
+    "prov",
+    "area",
+    "mes"
+  ],
+  "seleccionados": {
+    "logistica": {
+      "candidato": "C=1",
+      "C": 1.0
+    },
+    "boosting": {
+      "candidato": "B1",
+      "hiperparametros": {
+        "learning_rate": 0.05,
+        "max_leaf_nodes": 15,
+        "min_samples_leaf": 50,
+        "l2_regularization": 1.0,
+        "max_iter": 250
+      }
+    }
+  },
+  "umbrales_oof": {
+    "base": 0.4999999999999998,
+    "logistica": 0.6949999999999997,
+    "boosting": 0.7049999999999997
+  },
+  "versiones": {
+    "python": "3.12.14",
+    "pandas": "3.0.1",
+    "numpy": "2.3.5",
+    "scikit_learn": "1.7.2",
+    "joblib": "1.5.2"
+  },
+  "asociaciones": {
+    "filas_dominio": 39293,
+    "filas_diseno_completo": 334786,
+    "upm_diseno": 7780,
+    "estratos_diseno": 150,
+    "grados_libertad": 7630,
+    "convergencia": true,
+    "iteraciones": 6
+  },
+  "prueba_reservada": {
+    "ruta_declarada": "data/processed/modelado/prueba_reservada.csv",
+    "leida": false,
+    "evaluada": false
+  }
+}

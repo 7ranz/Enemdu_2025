@@ -1,0 +1,15 @@
+﻿medida,sin_ponderar,ponderado
+n_valido,39551.0,1382774.3486954877
+n_faltante,0.0,0.0
+media,40.28006877196531,39.062487828342164
+desviacion_estandar,12.367312119341745,11.693431962053587
+cuantil_0.00,18.0,18.0
+cuantil_0.01,22.0,22.0
+cuantil_0.05,24.0,24.0
+cuantil_0.25,30.0,30.0
+cuantil_0.50,38.0,37.0
+cuantil_0.75,49.0,46.0
+cuantil_0.90,58.0,57.0
+cuantil_0.95,63.0,61.0
+cuantil_0.99,71.0,69.0
+cuantil_1.00,86.0,86.0

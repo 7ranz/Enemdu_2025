@@ -1,0 +1,950 @@
+﻿regla,descripcion,tipo,mes,n_aplicables,n_alertas
+Q01,Edad vacía o no numérica,formato,ANUAL,334786,0
+Q01,Edad vacía o no numérica,formato,01,28320,0
+Q01,Edad vacía o no numérica,formato,02,28303,0
+Q01,Edad vacía o no numérica,formato,03,27932,0
+Q01,Edad vacía o no numérica,formato,04,28092,0
+Q01,Edad vacía o no numérica,formato,05,27903,0
+Q01,Edad vacía o no numérica,formato,06,28072,0
+Q01,Edad vacía o no numérica,formato,07,27509,0
+Q01,Edad vacía o no numérica,formato,08,27580,0
+Q01,Edad vacía o no numérica,formato,09,27332,0
+Q01,Edad vacía o no numérica,formato,10,27809,0
+Q01,Edad vacía o no numérica,formato,11,28126,0
+Q01,Edad vacía o no numérica,formato,12,27808,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,ANUAL,334786,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,01,28320,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,02,28303,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,03,27932,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,04,28092,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,05,27903,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,06,28072,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,07,27509,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,08,27580,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,09,27332,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,10,27809,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,11,28126,0
+Q02,Edad 99: código de no respuesta según guía; revisar también manual,codigo_especial,12,27808,0
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,ANUAL,334786,224
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,01,28320,20
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,02,28303,13
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,03,27932,21
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,04,28092,18
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,05,27903,18
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,06,28072,16
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,07,27509,18
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,08,27580,19
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,09,27332,16
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,10,27809,19
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,11,28126,18
+Q04,Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025,codigo_especial,12,27808,28
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,ANUAL,334786,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,01,28320,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,02,28303,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,03,27932,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,04,28092,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,05,27903,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,06,28072,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,07,27509,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,08,27580,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,09,27332,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,10,27809,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,11,28126,0
+Q03,"Edad negativa, mayor de 99 o no entera: revisión",revision,12,27808,0
+D_area,Código no vacío fuera de dominio en area,dominio,ANUAL,334786,0
+D_area,Código no vacío fuera de dominio en area,dominio,01,28320,0
+D_area,Código no vacío fuera de dominio en area,dominio,02,28303,0
+D_area,Código no vacío fuera de dominio en area,dominio,03,27932,0
+D_area,Código no vacío fuera de dominio en area,dominio,04,28092,0
+D_area,Código no vacío fuera de dominio en area,dominio,05,27903,0
+D_area,Código no vacío fuera de dominio en area,dominio,06,28072,0
+D_area,Código no vacío fuera de dominio en area,dominio,07,27509,0
+D_area,Código no vacío fuera de dominio en area,dominio,08,27580,0
+D_area,Código no vacío fuera de dominio en area,dominio,09,27332,0
+D_area,Código no vacío fuera de dominio en area,dominio,10,27809,0
+D_area,Código no vacío fuera de dominio en area,dominio,11,28126,0
+D_area,Código no vacío fuera de dominio en area,dominio,12,27808,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,ANUAL,334786,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,01,28320,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,02,28303,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,03,27932,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,04,28092,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,05,27903,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,06,28072,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,07,27509,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,08,27580,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,09,27332,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,10,27809,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,11,28126,0
+D_p02,Código no vacío fuera de dominio en p02,dominio,12,27808,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,ANUAL,284476,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,01,24054,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,02,24005,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,03,23734,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,04,23925,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,05,23735,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,06,23814,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,07,23364,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,08,23479,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,09,23132,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,10,23605,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,11,23965,0
+D_p06,Código no vacío fuera de dominio en p06,dominio,12,23664,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,ANUAL,317387,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,01,26861,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,02,26779,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,03,26502,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,04,26698,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,05,26408,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,06,26611,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,07,26073,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,08,26121,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,09,25863,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,10,26391,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,11,26710,0
+D_p07,Código no vacío fuera de dominio en p07,dominio,12,26370,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,ANUAL,317387,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,01,26861,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,02,26779,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,03,26502,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,04,26698,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,05,26408,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,06,26611,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,07,26073,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,08,26121,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,09,25863,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,10,26391,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,11,26710,0
+D_p10a,Código no vacío fuera de dominio en p10a,dominio,12,26370,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,ANUAL,71278,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,01,5933,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,02,5890,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,03,5866,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,04,5955,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,05,5992,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,06,5878,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,07,5851,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,08,5961,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,09,5968,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,10,6009,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,11,5968,0
+D_p12a,Código no vacío fuera de dominio en p12a,dominio,12,6007,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,ANUAL,317387,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,01,26861,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,02,26779,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,03,26502,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,04,26698,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,05,26408,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,06,26611,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,07,26073,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,08,26121,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,09,25863,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,10,26391,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,11,26710,0
+D_p15,Código no vacío fuera de dominio en p15,dominio,12,26370,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,ANUAL,334786,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,01,28320,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,02,28303,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,03,27932,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,04,28092,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,05,27903,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,06,28072,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,07,27509,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,08,27580,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,09,27332,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,10,27809,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,11,28126,0
+D_condact,Código no vacío fuera de dominio en condact,dominio,12,27808,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,ANUAL,334786,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,01,28320,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,02,28303,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,03,27932,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,04,28092,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,05,27903,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,06,28072,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,07,27509,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,08,27580,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,09,27332,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,10,27809,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,11,28126,0
+D_mes,Código no vacío fuera de dominio en mes,dominio,12,27808,0
+F_area,Campo estructural vacío: area,faltante,ANUAL,334786,0
+F_area,Campo estructural vacío: area,faltante,01,28320,0
+F_area,Campo estructural vacío: area,faltante,02,28303,0
+F_area,Campo estructural vacío: area,faltante,03,27932,0
+F_area,Campo estructural vacío: area,faltante,04,28092,0
+F_area,Campo estructural vacío: area,faltante,05,27903,0
+F_area,Campo estructural vacío: area,faltante,06,28072,0
+F_area,Campo estructural vacío: area,faltante,07,27509,0
+F_area,Campo estructural vacío: area,faltante,08,27580,0
+F_area,Campo estructural vacío: area,faltante,09,27332,0
+F_area,Campo estructural vacío: area,faltante,10,27809,0
+F_area,Campo estructural vacío: area,faltante,11,28126,0
+F_area,Campo estructural vacío: area,faltante,12,27808,0
+F_p02,Campo estructural vacío: p02,faltante,ANUAL,334786,0
+F_p02,Campo estructural vacío: p02,faltante,01,28320,0
+F_p02,Campo estructural vacío: p02,faltante,02,28303,0
+F_p02,Campo estructural vacío: p02,faltante,03,27932,0
+F_p02,Campo estructural vacío: p02,faltante,04,28092,0
+F_p02,Campo estructural vacío: p02,faltante,05,27903,0
+F_p02,Campo estructural vacío: p02,faltante,06,28072,0
+F_p02,Campo estructural vacío: p02,faltante,07,27509,0
+F_p02,Campo estructural vacío: p02,faltante,08,27580,0
+F_p02,Campo estructural vacío: p02,faltante,09,27332,0
+F_p02,Campo estructural vacío: p02,faltante,10,27809,0
+F_p02,Campo estructural vacío: p02,faltante,11,28126,0
+F_p02,Campo estructural vacío: p02,faltante,12,27808,0
+F_p03,Campo estructural vacío: p03,faltante,ANUAL,334786,0
+F_p03,Campo estructural vacío: p03,faltante,01,28320,0
+F_p03,Campo estructural vacío: p03,faltante,02,28303,0
+F_p03,Campo estructural vacío: p03,faltante,03,27932,0
+F_p03,Campo estructural vacío: p03,faltante,04,28092,0
+F_p03,Campo estructural vacío: p03,faltante,05,27903,0
+F_p03,Campo estructural vacío: p03,faltante,06,28072,0
+F_p03,Campo estructural vacío: p03,faltante,07,27509,0
+F_p03,Campo estructural vacío: p03,faltante,08,27580,0
+F_p03,Campo estructural vacío: p03,faltante,09,27332,0
+F_p03,Campo estructural vacío: p03,faltante,10,27809,0
+F_p03,Campo estructural vacío: p03,faltante,11,28126,0
+F_p03,Campo estructural vacío: p03,faltante,12,27808,0
+F_condact,Campo estructural vacío: condact,faltante,ANUAL,334786,0
+F_condact,Campo estructural vacío: condact,faltante,01,28320,0
+F_condact,Campo estructural vacío: condact,faltante,02,28303,0
+F_condact,Campo estructural vacío: condact,faltante,03,27932,0
+F_condact,Campo estructural vacío: condact,faltante,04,28092,0
+F_condact,Campo estructural vacío: condact,faltante,05,27903,0
+F_condact,Campo estructural vacío: condact,faltante,06,28072,0
+F_condact,Campo estructural vacío: condact,faltante,07,27509,0
+F_condact,Campo estructural vacío: condact,faltante,08,27580,0
+F_condact,Campo estructural vacío: condact,faltante,09,27332,0
+F_condact,Campo estructural vacío: condact,faltante,10,27809,0
+F_condact,Campo estructural vacío: condact,faltante,11,28126,0
+F_condact,Campo estructural vacío: condact,faltante,12,27808,0
+F_prov,Campo estructural vacío: prov,faltante,ANUAL,334786,0
+F_prov,Campo estructural vacío: prov,faltante,01,28320,0
+F_prov,Campo estructural vacío: prov,faltante,02,28303,0
+F_prov,Campo estructural vacío: prov,faltante,03,27932,0
+F_prov,Campo estructural vacío: prov,faltante,04,28092,0
+F_prov,Campo estructural vacío: prov,faltante,05,27903,0
+F_prov,Campo estructural vacío: prov,faltante,06,28072,0
+F_prov,Campo estructural vacío: prov,faltante,07,27509,0
+F_prov,Campo estructural vacío: prov,faltante,08,27580,0
+F_prov,Campo estructural vacío: prov,faltante,09,27332,0
+F_prov,Campo estructural vacío: prov,faltante,10,27809,0
+F_prov,Campo estructural vacío: prov,faltante,11,28126,0
+F_prov,Campo estructural vacío: prov,faltante,12,27808,0
+F_mes,Campo estructural vacío: mes,faltante,ANUAL,334786,0
+F_mes,Campo estructural vacío: mes,faltante,01,28320,0
+F_mes,Campo estructural vacío: mes,faltante,02,28303,0
+F_mes,Campo estructural vacío: mes,faltante,03,27932,0
+F_mes,Campo estructural vacío: mes,faltante,04,28092,0
+F_mes,Campo estructural vacío: mes,faltante,05,27903,0
+F_mes,Campo estructural vacío: mes,faltante,06,28072,0
+F_mes,Campo estructural vacío: mes,faltante,07,27509,0
+F_mes,Campo estructural vacío: mes,faltante,08,27580,0
+F_mes,Campo estructural vacío: mes,faltante,09,27332,0
+F_mes,Campo estructural vacío: mes,faltante,10,27809,0
+F_mes,Campo estructural vacío: mes,faltante,11,28126,0
+F_mes,Campo estructural vacío: mes,faltante,12,27808,0
+F_periodo,Campo estructural vacío: periodo,faltante,ANUAL,334786,0
+F_periodo,Campo estructural vacío: periodo,faltante,01,28320,0
+F_periodo,Campo estructural vacío: periodo,faltante,02,28303,0
+F_periodo,Campo estructural vacío: periodo,faltante,03,27932,0
+F_periodo,Campo estructural vacío: periodo,faltante,04,28092,0
+F_periodo,Campo estructural vacío: periodo,faltante,05,27903,0
+F_periodo,Campo estructural vacío: periodo,faltante,06,28072,0
+F_periodo,Campo estructural vacío: periodo,faltante,07,27509,0
+F_periodo,Campo estructural vacío: periodo,faltante,08,27580,0
+F_periodo,Campo estructural vacío: periodo,faltante,09,27332,0
+F_periodo,Campo estructural vacío: periodo,faltante,10,27809,0
+F_periodo,Campo estructural vacío: periodo,faltante,11,28126,0
+F_periodo,Campo estructural vacío: periodo,faltante,12,27808,0
+F_upm,Campo estructural vacío: upm,faltante,ANUAL,334786,0
+F_upm,Campo estructural vacío: upm,faltante,01,28320,0
+F_upm,Campo estructural vacío: upm,faltante,02,28303,0
+F_upm,Campo estructural vacío: upm,faltante,03,27932,0
+F_upm,Campo estructural vacío: upm,faltante,04,28092,0
+F_upm,Campo estructural vacío: upm,faltante,05,27903,0
+F_upm,Campo estructural vacío: upm,faltante,06,28072,0
+F_upm,Campo estructural vacío: upm,faltante,07,27509,0
+F_upm,Campo estructural vacío: upm,faltante,08,27580,0
+F_upm,Campo estructural vacío: upm,faltante,09,27332,0
+F_upm,Campo estructural vacío: upm,faltante,10,27809,0
+F_upm,Campo estructural vacío: upm,faltante,11,28126,0
+F_upm,Campo estructural vacío: upm,faltante,12,27808,0
+F_estrato,Campo estructural vacío: estrato,faltante,ANUAL,334786,0
+F_estrato,Campo estructural vacío: estrato,faltante,01,28320,0
+F_estrato,Campo estructural vacío: estrato,faltante,02,28303,0
+F_estrato,Campo estructural vacío: estrato,faltante,03,27932,0
+F_estrato,Campo estructural vacío: estrato,faltante,04,28092,0
+F_estrato,Campo estructural vacío: estrato,faltante,05,27903,0
+F_estrato,Campo estructural vacío: estrato,faltante,06,28072,0
+F_estrato,Campo estructural vacío: estrato,faltante,07,27509,0
+F_estrato,Campo estructural vacío: estrato,faltante,08,27580,0
+F_estrato,Campo estructural vacío: estrato,faltante,09,27332,0
+F_estrato,Campo estructural vacío: estrato,faltante,10,27809,0
+F_estrato,Campo estructural vacío: estrato,faltante,11,28126,0
+F_estrato,Campo estructural vacío: estrato,faltante,12,27808,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,ANUAL,334786,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,01,28320,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,02,28303,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,03,27932,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,04,28092,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,05,27903,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,06,28072,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,07,27509,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,08,27580,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,09,27332,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,10,27809,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,11,28126,0
+F_id_vivienda,Campo estructural vacío: id_vivienda,faltante,12,27808,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,ANUAL,334786,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,01,28320,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,02,28303,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,03,27932,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,04,28092,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,05,27903,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,06,28072,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,07,27509,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,08,27580,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,09,27332,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,10,27809,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,11,28126,0
+F_id_hogar,Campo estructural vacío: id_hogar,faltante,12,27808,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,ANUAL,334786,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,01,28320,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,02,28303,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,03,27932,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,04,28092,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,05,27903,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,06,28072,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,07,27509,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,08,27580,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,09,27332,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,10,27809,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,11,28126,0
+F_id_persona,Campo estructural vacío: id_persona,faltante,12,27808,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,ANUAL,317387,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,01,26861,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,02,26779,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,03,26502,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,04,26698,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,05,26408,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,06,26611,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,07,26073,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,08,26121,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,09,25863,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,10,26391,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,11,26710,0
+E_p10a,p10a vacío en personas con edad conocida >=5,flujo,12,26370,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,ANUAL,317387,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,01,26861,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,02,26779,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,03,26502,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,04,26698,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,05,26408,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,06,26611,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,07,26073,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,08,26121,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,09,25863,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,10,26391,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,11,26710,0
+E_p07,p07 vacío en personas con edad conocida >=5,flujo,12,26370,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,ANUAL,317387,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,01,26861,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,02,26779,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,03,26502,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,04,26698,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,05,26408,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,06,26611,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,07,26073,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,08,26121,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,09,25863,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,10,26391,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,11,26710,0
+E_p15,p15 vacío en personas con edad conocida >=5,flujo,12,26370,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,ANUAL,71278,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,01,5933,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,02,5890,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,03,5866,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,04,5955,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,05,5992,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,06,5878,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,07,5851,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,08,5961,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,09,5968,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,10,6009,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,11,5968,0
+E_titulo,Respuesta de título ausente o inválida en nivel superior,flujo,12,6007,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,ANUAL,263508,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,01,22387,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,02,22413,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,03,22066,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,04,22137,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,05,21911,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,06,22194,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,07,21658,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,08,21619,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,09,21364,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,10,21800,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,11,22158,0
+E_fuera_flujo,Respuesta de título fuera de niveles 8–10,flujo,12,21801,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,ANUAL,48279,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,01,4017,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,02,3884,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,03,3959,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,04,3995,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,05,3991,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,06,4005,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,07,3964,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,08,4048,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,09,4047,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,10,4091,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,11,4124,0
+E_codigo_titulo,Título declarado sin código p12b,flujo,12,4154,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,ANUAL,286507,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,01,24303,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,02,24419,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,03,23973,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,04,24097,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,05,23912,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,06,24067,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,07,23545,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,08,23532,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,09,23285,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,10,23718,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,11,24002,0
+E_codigo_sin_titulo,Código p12b informado sin respuesta afirmativa p12a,flujo,12,23654,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,ANUAL,48279,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,01,4017,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,02,3884,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,03,3959,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,04,3995,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,05,3991,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,06,4005,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,07,3964,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,08,4048,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,09,4047,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,10,4091,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,11,4124,0
+E_edad_titulo,Título superior con edad conocida menor de 18: revisar,revision,12,4154,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,ANUAL,67897,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,01,5783,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,02,5759,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,03,5627,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,04,5672,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,05,5612,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,06,5720,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,07,5615,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,08,5572,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,09,5642,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,10,5627,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,11,5684,0
+L_menor15,Menor de 15 años con condact distinto de 0,consistencia,12,5584,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,ANUAL,266889,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,01,22537,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,02,22544,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,03,22305,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,04,22420,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,05,22291,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,06,22352,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,07,21894,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,08,22008,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,09,21690,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,10,22182,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,11,22442,0
+L_adulto0,Edad conocida >=15 con condact=0,consistencia,12,22224,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,ANUAL,334786,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,01,28320,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,02,28303,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,03,27932,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,04,28092,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,05,27903,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,06,28072,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,07,27509,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,08,27580,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,09,27332,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,10,27809,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,11,28126,0
+L_empleo,Indicador empleo=1 discrepa de condact 1–6,consistencia,12,27808,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,ANUAL,334786,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,01,28320,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,02,28303,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,03,27932,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,04,28092,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,05,27903,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,06,28072,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,07,27509,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,08,27580,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,09,27332,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,10,27809,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,11,28126,0
+L_desempleo,Indicador desempleo=1 discrepa de condact 7–8,consistencia,12,27808,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,ANUAL,334786,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,01,28320,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,02,28303,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,03,27932,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,04,28092,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,05,27903,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,06,28072,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,07,27509,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,08,27580,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,09,27332,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,10,27809,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,11,28126,0
+T_periodo,Periodo distinto de 2025 seguido del mes,consistencia,12,27808,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,ANUAL,334786,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,01,28320,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,02,28303,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,03,27932,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,04,28092,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,05,27903,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,06,28072,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,07,27509,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,08,27580,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,09,27332,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,10,27809,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,11,28126,0
+W_peso,"Factor de expansión ausente, no finito o no positivo",diseno,12,27808,0
+C_p02,p02 vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_p02,p02 vacío en población candidata,faltante_candidato,01,3286,0
+C_p02,p02 vacío en población candidata,faltante_candidato,02,3174,0
+C_p02,p02 vacío en población candidata,faltante_candidato,03,3263,0
+C_p02,p02 vacío en población candidata,faltante_candidato,04,3297,0
+C_p02,p02 vacío en población candidata,faltante_candidato,05,3243,0
+C_p02,p02 vacío en población candidata,faltante_candidato,06,3318,0
+C_p02,p02 vacío en población candidata,faltante_candidato,07,3289,0
+C_p02,p02 vacío en población candidata,faltante_candidato,08,3314,0
+C_p02,p02 vacío en población candidata,faltante_candidato,09,3306,0
+C_p02,p02 vacío en población candidata,faltante_candidato,10,3343,0
+C_p02,p02 vacío en población candidata,faltante_candidato,11,3359,0
+C_p02,p02 vacío en población candidata,faltante_candidato,12,3359,0
+C_p06,p06 vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_p06,p06 vacío en población candidata,faltante_candidato,01,3286,0
+C_p06,p06 vacío en población candidata,faltante_candidato,02,3174,0
+C_p06,p06 vacío en población candidata,faltante_candidato,03,3263,0
+C_p06,p06 vacío en población candidata,faltante_candidato,04,3297,0
+C_p06,p06 vacío en población candidata,faltante_candidato,05,3243,0
+C_p06,p06 vacío en población candidata,faltante_candidato,06,3318,0
+C_p06,p06 vacío en población candidata,faltante_candidato,07,3289,0
+C_p06,p06 vacío en población candidata,faltante_candidato,08,3314,0
+C_p06,p06 vacío en población candidata,faltante_candidato,09,3306,0
+C_p06,p06 vacío en población candidata,faltante_candidato,10,3343,0
+C_p06,p06 vacío en población candidata,faltante_candidato,11,3359,0
+C_p06,p06 vacío en población candidata,faltante_candidato,12,3359,0
+C_p07,p07 vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_p07,p07 vacío en población candidata,faltante_candidato,01,3286,0
+C_p07,p07 vacío en población candidata,faltante_candidato,02,3174,0
+C_p07,p07 vacío en población candidata,faltante_candidato,03,3263,0
+C_p07,p07 vacío en población candidata,faltante_candidato,04,3297,0
+C_p07,p07 vacío en población candidata,faltante_candidato,05,3243,0
+C_p07,p07 vacío en población candidata,faltante_candidato,06,3318,0
+C_p07,p07 vacío en población candidata,faltante_candidato,07,3289,0
+C_p07,p07 vacío en población candidata,faltante_candidato,08,3314,0
+C_p07,p07 vacío en población candidata,faltante_candidato,09,3306,0
+C_p07,p07 vacío en población candidata,faltante_candidato,10,3343,0
+C_p07,p07 vacío en población candidata,faltante_candidato,11,3359,0
+C_p07,p07 vacío en población candidata,faltante_candidato,12,3359,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,01,3286,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,02,3174,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,03,3263,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,04,3297,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,05,3243,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,06,3318,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,07,3289,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,08,3314,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,09,3306,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,10,3343,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,11,3359,0
+C_p10a,p10a vacío en población candidata,faltante_candidato,12,3359,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,01,3286,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,02,3174,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,03,3263,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,04,3297,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,05,3243,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,06,3318,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,07,3289,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,08,3314,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,09,3306,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,10,3343,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,11,3359,0
+C_p12a,p12a vacío en población candidata,faltante_candidato,12,3359,0
+C_p15,p15 vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_p15,p15 vacío en población candidata,faltante_candidato,01,3286,0
+C_p15,p15 vacío en población candidata,faltante_candidato,02,3174,0
+C_p15,p15 vacío en población candidata,faltante_candidato,03,3263,0
+C_p15,p15 vacío en población candidata,faltante_candidato,04,3297,0
+C_p15,p15 vacío en población candidata,faltante_candidato,05,3243,0
+C_p15,p15 vacío en población candidata,faltante_candidato,06,3318,0
+C_p15,p15 vacío en población candidata,faltante_candidato,07,3289,0
+C_p15,p15 vacío en población candidata,faltante_candidato,08,3314,0
+C_p15,p15 vacío en población candidata,faltante_candidato,09,3306,0
+C_p15,p15 vacío en población candidata,faltante_candidato,10,3343,0
+C_p15,p15 vacío en población candidata,faltante_candidato,11,3359,0
+C_p15,p15 vacío en población candidata,faltante_candidato,12,3359,0
+C_prov,prov vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_prov,prov vacío en población candidata,faltante_candidato,01,3286,0
+C_prov,prov vacío en población candidata,faltante_candidato,02,3174,0
+C_prov,prov vacío en población candidata,faltante_candidato,03,3263,0
+C_prov,prov vacío en población candidata,faltante_candidato,04,3297,0
+C_prov,prov vacío en población candidata,faltante_candidato,05,3243,0
+C_prov,prov vacío en población candidata,faltante_candidato,06,3318,0
+C_prov,prov vacío en población candidata,faltante_candidato,07,3289,0
+C_prov,prov vacío en población candidata,faltante_candidato,08,3314,0
+C_prov,prov vacío en población candidata,faltante_candidato,09,3306,0
+C_prov,prov vacío en población candidata,faltante_candidato,10,3343,0
+C_prov,prov vacío en población candidata,faltante_candidato,11,3359,0
+C_prov,prov vacío en población candidata,faltante_candidato,12,3359,0
+C_area,area vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_area,area vacío en población candidata,faltante_candidato,01,3286,0
+C_area,area vacío en población candidata,faltante_candidato,02,3174,0
+C_area,area vacío en población candidata,faltante_candidato,03,3263,0
+C_area,area vacío en población candidata,faltante_candidato,04,3297,0
+C_area,area vacío en población candidata,faltante_candidato,05,3243,0
+C_area,area vacío en población candidata,faltante_candidato,06,3318,0
+C_area,area vacío en población candidata,faltante_candidato,07,3289,0
+C_area,area vacío en población candidata,faltante_candidato,08,3314,0
+C_area,area vacío en población candidata,faltante_candidato,09,3306,0
+C_area,area vacío en población candidata,faltante_candidato,10,3343,0
+C_area,area vacío en población candidata,faltante_candidato,11,3359,0
+C_area,area vacío en población candidata,faltante_candidato,12,3359,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,ANUAL,39551,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,01,3286,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,02,3174,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,03,3263,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,04,3297,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,05,3243,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,06,3318,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,07,3289,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,08,3314,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,09,3306,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,10,3343,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,11,3359,0
+C_p10b,p10b vacío en población candidata,faltante_candidato,12,3359,0
+NR_p63,No respuesta 999999 en p63,codigo_especial,ANUAL,334786,239
+NR_p63,No respuesta 999999 en p63,codigo_especial,01,28320,23
+NR_p63,No respuesta 999999 en p63,codigo_especial,02,28303,21
+NR_p63,No respuesta 999999 en p63,codigo_especial,03,27932,15
+NR_p63,No respuesta 999999 en p63,codigo_especial,04,28092,14
+NR_p63,No respuesta 999999 en p63,codigo_especial,05,27903,12
+NR_p63,No respuesta 999999 en p63,codigo_especial,06,28072,21
+NR_p63,No respuesta 999999 en p63,codigo_especial,07,27509,20
+NR_p63,No respuesta 999999 en p63,codigo_especial,08,27580,20
+NR_p63,No respuesta 999999 en p63,codigo_especial,09,27332,21
+NR_p63,No respuesta 999999 en p63,codigo_especial,10,27809,26
+NR_p63,No respuesta 999999 en p63,codigo_especial,11,28126,19
+NR_p63,No respuesta 999999 en p63,codigo_especial,12,27808,27
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,ANUAL,334786,21
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,01,28320,4
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,02,28303,1
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,03,27932,0
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,04,28092,0
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,05,27903,0
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,06,28072,2
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,07,27509,4
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,08,27580,3
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,09,27332,2
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,10,27809,3
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,11,28126,2
+NR_p64b,No respuesta 999999 en p64b,codigo_especial,12,27808,0
+NR_p65,No respuesta 999999 en p65,codigo_especial,ANUAL,334786,234
+NR_p65,No respuesta 999999 en p65,codigo_especial,01,28320,22
+NR_p65,No respuesta 999999 en p65,codigo_especial,02,28303,21
+NR_p65,No respuesta 999999 en p65,codigo_especial,03,27932,14
+NR_p65,No respuesta 999999 en p65,codigo_especial,04,28092,12
+NR_p65,No respuesta 999999 en p65,codigo_especial,05,27903,12
+NR_p65,No respuesta 999999 en p65,codigo_especial,06,28072,21
+NR_p65,No respuesta 999999 en p65,codigo_especial,07,27509,20
+NR_p65,No respuesta 999999 en p65,codigo_especial,08,27580,20
+NR_p65,No respuesta 999999 en p65,codigo_especial,09,27332,21
+NR_p65,No respuesta 999999 en p65,codigo_especial,10,27809,26
+NR_p65,No respuesta 999999 en p65,codigo_especial,11,28126,19
+NR_p65,No respuesta 999999 en p65,codigo_especial,12,27808,26
+NR_p66,No respuesta 999999 en p66,codigo_especial,ANUAL,334786,241
+NR_p66,No respuesta 999999 en p66,codigo_especial,01,28320,30
+NR_p66,No respuesta 999999 en p66,codigo_especial,02,28303,22
+NR_p66,No respuesta 999999 en p66,codigo_especial,03,27932,8
+NR_p66,No respuesta 999999 en p66,codigo_especial,04,28092,13
+NR_p66,No respuesta 999999 en p66,codigo_especial,05,27903,8
+NR_p66,No respuesta 999999 en p66,codigo_especial,06,28072,29
+NR_p66,No respuesta 999999 en p66,codigo_especial,07,27509,19
+NR_p66,No respuesta 999999 en p66,codigo_especial,08,27580,13
+NR_p66,No respuesta 999999 en p66,codigo_especial,09,27332,17
+NR_p66,No respuesta 999999 en p66,codigo_especial,10,27809,42
+NR_p66,No respuesta 999999 en p66,codigo_especial,11,28126,24
+NR_p66,No respuesta 999999 en p66,codigo_especial,12,27808,16
+NR_p67,No respuesta 999999 en p67,codigo_especial,ANUAL,334786,231
+NR_p67,No respuesta 999999 en p67,codigo_especial,01,28320,30
+NR_p67,No respuesta 999999 en p67,codigo_especial,02,28303,20
+NR_p67,No respuesta 999999 en p67,codigo_especial,03,27932,6
+NR_p67,No respuesta 999999 en p67,codigo_especial,04,28092,13
+NR_p67,No respuesta 999999 en p67,codigo_especial,05,27903,8
+NR_p67,No respuesta 999999 en p67,codigo_especial,06,28072,27
+NR_p67,No respuesta 999999 en p67,codigo_especial,07,27509,19
+NR_p67,No respuesta 999999 en p67,codigo_especial,08,27580,13
+NR_p67,No respuesta 999999 en p67,codigo_especial,09,27332,17
+NR_p67,No respuesta 999999 en p67,codigo_especial,10,27809,41
+NR_p67,No respuesta 999999 en p67,codigo_especial,11,28126,22
+NR_p67,No respuesta 999999 en p67,codigo_especial,12,27808,15
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,ANUAL,334786,37
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,01,28320,3
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,02,28303,2
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,03,27932,0
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,04,28092,2
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,05,27903,5
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,06,28072,4
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,07,27509,7
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,08,27580,2
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,09,27332,1
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,10,27809,7
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,11,28126,2
+NR_p68b,No respuesta 999999 en p68b,codigo_especial,12,27808,2
+NR_p69,No respuesta 999999 en p69,codigo_especial,ANUAL,334786,10
+NR_p69,No respuesta 999999 en p69,codigo_especial,01,28320,0
+NR_p69,No respuesta 999999 en p69,codigo_especial,02,28303,0
+NR_p69,No respuesta 999999 en p69,codigo_especial,03,27932,2
+NR_p69,No respuesta 999999 en p69,codigo_especial,04,28092,1
+NR_p69,No respuesta 999999 en p69,codigo_especial,05,27903,0
+NR_p69,No respuesta 999999 en p69,codigo_especial,06,28072,1
+NR_p69,No respuesta 999999 en p69,codigo_especial,07,27509,1
+NR_p69,No respuesta 999999 en p69,codigo_especial,08,27580,1
+NR_p69,No respuesta 999999 en p69,codigo_especial,09,27332,1
+NR_p69,No respuesta 999999 en p69,codigo_especial,10,27809,2
+NR_p69,No respuesta 999999 en p69,codigo_especial,11,28126,0
+NR_p69,No respuesta 999999 en p69,codigo_especial,12,27808,1
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,ANUAL,334786,1
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,01,28320,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,02,28303,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,03,27932,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,04,28092,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,05,27903,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,06,28072,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,07,27509,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,08,27580,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,09,27332,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,10,27809,1
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,11,28126,0
+NR_p70b,No respuesta 999999 en p70b,codigo_especial,12,27808,0
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,ANUAL,334786,23
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,01,28320,1
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,02,28303,3
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,03,27932,2
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,04,28092,1
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,05,27903,0
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,06,28072,3
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,07,27509,0
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,08,27580,6
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,09,27332,3
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,10,27809,0
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,11,28126,1
+NR_p71b,No respuesta 999999 en p71b,codigo_especial,12,27808,3
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,ANUAL,334786,223
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,01,28320,35
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,02,28303,30
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,03,27932,15
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,04,28092,18
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,05,27903,18
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,06,28072,23
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,07,27509,8
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,08,27580,18
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,09,27332,15
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,10,27809,16
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,11,28126,12
+NR_p72b,No respuesta 999999 en p72b,codigo_especial,12,27808,15
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,ANUAL,334786,13
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,01,28320,3
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,02,28303,2
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,03,27932,0
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,04,28092,1
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,05,27903,0
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,06,28072,0
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,07,27509,1
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,08,27580,3
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,09,27332,0
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,10,27809,2
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,11,28126,1
+NR_p73b,No respuesta 999999 en p73b,codigo_especial,12,27808,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,ANUAL,334786,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,01,28320,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,02,28303,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,03,27932,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,04,28092,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,05,27903,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,06,28072,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,07,27509,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,08,27580,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,09,27332,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,10,27809,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,11,28126,0
+NR_p74b,No respuesta 999999 en p74b,codigo_especial,12,27808,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,ANUAL,334786,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,01,28320,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,02,28303,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,03,27932,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,04,28092,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,05,27903,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,06,28072,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,07,27509,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,08,27580,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,09,27332,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,10,27809,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,11,28126,0
+NR_p76,No respuesta 999999 en p76,codigo_especial,12,27808,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,ANUAL,334786,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,01,28320,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,02,28303,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,03,27932,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,04,28092,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,05,27903,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,06,28072,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,07,27509,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,08,27580,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,09,27332,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,10,27809,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,11,28126,0
+NR_p78,No respuesta 999999 en p78,codigo_especial,12,27808,0
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,ANUAL,334786,1471
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,01,28320,100
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,02,28303,132
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,03,27932,148
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,04,28092,135
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,05,27903,147
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,06,28072,103
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,07,27509,129
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,08,27580,116
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,09,27332,112
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,10,27809,113
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,11,28126,115
+I_ingrl_negativo,Valor negativo de ingrl; revisar semántica de código,revision,12,27808,121
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,ANUAL,334786,480
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,01,28320,53
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,02,28303,43
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,03,27932,23
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,04,28092,27
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,05,27903,20
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,06,28072,50
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,07,27509,39
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,08,27580,33
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,09,27332,38
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,10,27809,68
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,11,28126,43
+I_ingrl_alto,ingrl >=999999; revisar códigos especiales,revision,12,27808,43
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,ANUAL,334786,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,01,28320,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,02,28303,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,03,27932,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,04,28092,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,05,27903,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,06,28072,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,07,27509,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,08,27580,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,09,27332,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,10,27809,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,11,28126,0
+I_ingpc_negativo,Valor negativo de ingpc; revisar semántica de código,revision,12,27808,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,ANUAL,334786,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,01,28320,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,02,28303,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,03,27932,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,04,28092,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,05,27903,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,06,28072,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,07,27509,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,08,27580,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,09,27332,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,10,27809,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,11,28126,0
+I_ingpc_alto,ingpc >=999999; revisar códigos especiales,revision,12,27808,0
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,ANUAL,36906,1412
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,01,3054,119
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,02,2944,127
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,03,3032,119
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,04,3057,114
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,05,3007,131
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,06,3119,109
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,07,3070,99
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,08,3093,124
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,09,3091,127
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,10,3136,108
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,11,3155,122
+I_faltante_ocupado,Ingreso laboral vacío entre ocupados candidatos,revision,12,3148,113
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,ANUAL,39551,258
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,01,3286,30
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,02,3174,23
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,03,3263,11
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,04,3297,14
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,05,3243,10
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,06,3318,26
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,07,3289,23
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,08,3314,15
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,09,3306,26
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,10,3343,35
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,11,3359,27
+L_no_clasificado,Empleo no clasificado dentro de candidatos,decision_analitica,12,3359,18
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,ANUAL,334786,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,01,28320,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,02,28303,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,03,27932,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,04,28092,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,05,27903,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,06,28072,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,07,27509,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,08,27580,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,09,27332,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,10,27809,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,11,28126,0
+ID_id_vivienda,id_vivienda: discrepancia con reconstrucción UPM/componentes/mes,identificador,12,27808,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,ANUAL,334786,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,01,28320,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,02,28303,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,03,27932,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,04,28092,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,05,27903,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,06,28072,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,07,27509,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,08,27580,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,09,27332,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,10,27809,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,11,28126,0
+ID_id_hogar,id_hogar: discrepancia con reconstrucción UPM/componentes/mes,identificador,12,27808,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,ANUAL,334786,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,01,28320,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,02,28303,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,03,27932,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,04,28092,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,05,27903,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,06,28072,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,07,27509,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,08,27580,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,09,27332,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,10,27809,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,11,28126,0
+ID_id_persona,id_persona: discrepancia con reconstrucción UPM/componentes/mes,identificador,12,27808,0
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,ANUAL,334786,1787
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,01,28320,48
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,02,28303,120
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,03,27932,61
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,04,28092,105
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,05,27903,89
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,06,28072,202
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,07,27509,225
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,08,27580,149
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,09,27332,238
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,10,27809,260
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,11,28126,188
+ID_upm_geografia,Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía,revision_cartografica,12,27808,102
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,ANUAL,334786,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,01,28320,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,02,28303,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,03,27932,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,04,28092,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,05,27903,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,06,28072,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,07,27509,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,08,27580,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,09,27332,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,10,27809,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,11,28126,0
+ID_provincia,Provincia distinta del prefijo de ciudad,identificador,12,27808,0

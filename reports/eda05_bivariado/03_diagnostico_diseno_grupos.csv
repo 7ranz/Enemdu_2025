@@ -1,0 +1,48 @@
+﻿variable,codigo,etiqueta,n,upm,estratos,n_efectivo_pesos_kish,estratos_una_upm_en_subgrupo,advertencia
+total,total,Total del dominio,39551,6326,150,8827.86601317786,0,sin alerta descriptiva
+p02,1,Hombre,18198,5081,150,4155.064712021136,1,algunos estratos tienen una UPM con casos; conservar diseño completo
+p02,2,Mujer,21353,5575,150,4685.688704766382,0,sin alerta descriptiva
+area,1,Urbana,35099,5149,81,7741.017110927161,0,sin alerta descriptiva
+area,2,Rural,4452,1177,69,1109.049712005419,0,sin alerta descriptiva
+grupo_edad,15–19,15–19,11,8,8,8.026557418724273,8,n menor que 100; interpretar con cautela
+grupo_edad,20–24,20–24,2411,1531,146,533.1872249810334,9,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,25–29,25–29,6783,3199,146,1590.3185346570554,2,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,30–34,30–34,6577,3003,149,1334.3367550707706,7,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,35–39,35–39,5290,2520,146,1169.7567042302228,12,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,40–44,40–44,4769,2254,140,1390.4055954425826,9,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,45–49,45–49,3935,1971,137,900.3329828244977,20,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,50–54,50–54,3600,1842,133,752.7023202924433,18,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,55–59,55–59,2891,1522,137,668.386889083111,26,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,60–64,60–64,1875,1062,118,521.9302647407524,20,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,65–69,65–69,889,575,101,145.0825073899523,44,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,70–74,70–74,339,236,69,99.02478333715376,34,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,75–79,75–79,128,97,38,29.341144400267126,22,algunos estratos tienen una UPM con casos; conservar diseño completo
+grupo_edad,80–84,80–84,48,35,24,17.09191246029171,19,n menor que 100; interpretar con cautela
+grupo_edad,85–89,85–89,5,5,4,3.7712466825593336,3,n menor que 100; interpretar con cautela
+p10a,10,Post-grado,7262,2780,140,1652.479574616128,7,algunos estratos tienen una UPM con casos; conservar diseño completo
+p10a,8,Superior no universitario,6425,3144,149,1573.6880296393201,3,algunos estratos tienen una UPM con casos; conservar diseño completo
+p10a,9,Superior Universitario,25864,5689,150,5660.372649630222,0,sin alerta descriptiva
+prov,1,Azuay,5075,645,9,1036.0737742801255,0,sin alerta descriptiva
+prov,10,Imbabura,1477,266,6,591.1176444980204,0,sin alerta descriptiva
+prov,11,Loja,1197,203,6,546.0457661164861,0,sin alerta descriptiva
+prov,12,Los Ríos,389,88,6,151.80790433695813,0,sin alerta descriptiva
+prov,13,Manabí,541,110,6,241.01426167505772,0,sin alerta descriptiva
+prov,14,Morona Santiago,281,64,4,6.855928144787526,0,sin alerta descriptiva
+prov,15,Napo,560,98,4,165.57782675401432,0,sin alerta descriptiva
+prov,16,Pastaza,826,128,6,347.89977810244136,0,sin alerta descriptiva
+prov,17,Pichincha,7560,1059,9,3160.2405361046594,0,sin alerta descriptiva
+prov,18,Tungurahua,5217,623,9,1222.7480675193856,0,sin alerta descriptiva
+prov,19,Zamora Chinchipe,582,103,6,178.32241202578157,0,sin alerta descriptiva
+prov,2,Bolívar,632,107,6,272.80085681532256,0,sin alerta descriptiva
+prov,20,Galapagos,386,79,3,207.88598318935445,0,sin alerta descriptiva
+prov,21,Sucumbíos,626,142,6,142.4496418542605,0,sin alerta descriptiva
+prov,22,Orellana,428,104,6,223.06141174806913,0,sin alerta descriptiva
+prov,23,Santo Domingo de los Tsáchilas,411,113,6,179.08431824605762,0,sin alerta descriptiva
+prov,24,Santa Elena,826,194,4,313.346280852462,0,sin alerta descriptiva
+prov,3,Cañar,609,107,6,221.71516116994587,0,sin alerta descriptiva
+prov,4,Carchi,683,135,6,145.71001835802068,0,sin alerta descriptiva
+prov,5,Cotopaxi,880,124,6,380.7389251772388,0,sin alerta descriptiva
+prov,6,Chimborazo,778,110,6,280.4054732693877,0,sin alerta descriptiva
+prov,7,El Oro,4041,704,9,616.3511355267846,0,sin alerta descriptiva
+prov,8,Esmeraldas,1510,297,6,721.7941110485982,0,sin alerta descriptiva
+prov,9,Guayas,4036,723,9,1119.840390716993,0,sin alerta descriptiva

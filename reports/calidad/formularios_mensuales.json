@@ -1,0 +1,290 @@
+[
+  {
+    "mes": "01",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-enero-2025/",
+    "consulta_utc": "2026-09-28T04:29:51.065872+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Enero_2025/202501_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Enero_2025/202501_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\01_formulario_2025.pdf",
+    "sha256": "9a7f470a292190b695c012127c77222e73c37c7d86e5f7dbaa0cd9f7dfbc43e8",
+    "paginas": 24,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "02",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-febrero-2025/",
+    "consulta_utc": "2026-09-28T04:29:51.077776+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Febrero_2025/202502_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Febrero_2025/202502_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\02_formulario_2025.pdf",
+    "sha256": "c8875a390d9619c9e0544ea547bfd3f430c1950bddf5b231ff3250c9ea733785",
+    "paginas": 24,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "03",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-marzo-2025/",
+    "consulta_utc": "2026-09-28T04:29:51.077776+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Marzo_2025/202503_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Marzo_2025/202503_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\03_formulario_2025.pdf",
+    "sha256": "da6c5c588fdcee0a66e5c7b05f9dea63aa9f359f45c0da3a6f62da508d36b584",
+    "paginas": 24,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "04",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-abril-2025/",
+    "consulta_utc": "2026-09-28T04:37:32.397885+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Abril_2025/202504_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Abril_2025/202504_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\04_formulario_2025.pdf",
+    "sha256": "62e7cbe90adebf99b22ca554738169693ae4bd2df5f0f1bc71615370ec66e032",
+    "paginas": 24,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "05",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-mayo-2025/",
+    "consulta_utc": "2026-09-28T04:37:32.397885+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Mayo_2025/202505_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Mayo_2025/202505_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\05_formulario_2025.pdf",
+    "sha256": "fe287cd2437b49e49277124b8f5851e3e760b7e75e695c7d72be8499c1d96759",
+    "paginas": 24,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "06",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-junio-2025/",
+    "consulta_utc": "2026-09-28T04:30:02.925134+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Junio_2025/202506_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Junio_2025/202506_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\06_formulario_2025.pdf",
+    "sha256": "f709b5a51635bc02293aa3b4cbd9c397ae6974a1f02e6d62b431f8aad1a760e4",
+    "paginas": 24,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "07",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-julio-2025/",
+    "consulta_utc": "2026-09-28T04:30:12.705683+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Julio_2025/202507_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Julio_2025/202507_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\07_formulario_2025.pdf",
+    "sha256": "2abc810f25e14f2fcf718192ce29a4c7340a2a2b7e0b8a839404d558bb622aca",
+    "paginas": 24,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "08",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-agosto-2025/",
+    "consulta_utc": "2026-09-28T04:30:16.629555+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Agosto_2025/202508_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Agosto_2025/202508_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\08_formulario_2025.pdf",
+    "sha256": "5ec791cc6d409e5b44b5d34e0241aa57a3c511c1182eaf5584f23821f7c25a6d",
+    "paginas": 24,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "09",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-septiembre-2025/",
+    "consulta_utc": "2026-09-28T04:37:32.481947+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Septiembre_2025/202509_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Septiembre_2025/202509_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\09_formulario_2025.pdf",
+    "sha256": "e4cfe9190905df1a26180c6359cfe08e4386eca9b29dff6414c747493367155c",
+    "paginas": 26,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "10",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-octubre-2025/",
+    "consulta_utc": "2026-09-28T04:32:26.455884+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Octubre_2025/202510_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Octubre_2025/202510_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\10_formulario_2025.pdf",
+    "sha256": "0bb419b9fe320bad1857d14a9de4b6bc0509e7298acb2352b6ec6499839fc748",
+    "paginas": 26,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "11",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-noviembre-2025/",
+    "consulta_utc": "2026-09-28T04:32:26.457900+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Noviembre_2025/202511_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Noviembre_2025/202511_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\11_formulario_2025.pdf",
+    "sha256": "e57b44a1fb3eb7ef5b40d498f4ff5859991370785edd79b4b41066a27ef80411",
+    "paginas": 26,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  },
+  {
+    "mes": "12",
+    "pagina": "https://www.ecuadorencifras.gob.ec/empleo-diciembre-2025/",
+    "consulta_utc": "2026-09-28T04:32:26.460991+00:00",
+    "enlaces_encontrados": [
+      "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Diciembre_2025/202512_Formulario_ENEMDU.pdf"
+    ],
+    "url_pdf": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/Diciembre_2025/202512_Formulario_ENEMDU.pdf",
+    "archivo": "data\\raw\\documentacion\\formularios_mensuales\\12_formulario_2025.pdf",
+    "sha256": "2566a8d377480853ca9bca86ef518182e7ea0e2ef244d42b92c75a2a8d0602de",
+    "paginas": 25,
+    "evidencia_titulo": [
+      {
+        "pagina_pdf": 4,
+        "fragmento": "ros del hogar cod per 010203040512 ¿por los estudios realizados (...) obtuvo algun titulo superior?codsi 1no 2¿que titulo obtuvo? 12uso ineccod.¿como se identifica (...) segun su cultura y costumbres:indigena?...................1blanco/a?"
+      }
+    ],
+    "estado": "pregunta_localizada",
+    "pregunta10_texto_normalizado": "¿cual es el nivel de instruccion y ano mas alto que aprobo (...)?pase a 1212346891057ninguno...................centro de alfabetizacion............jardin de infantes......primaria...................secundaria...............superior no universitario..............superior universitario..post - grado..............educacion basica......educacion media / bachillerato...............pase a 15nivelano aprobado10",
+    "pregunta10_pagina_pdf": 3,
+    "pregunta10_sha256_texto": "bd6b60500fe96a7fc51697578bdc1ea50b2ab0fca57945353b643d5fb5f6740c",
+    "pregunta12_si1_no2": true,
+    "pregunta12_sha256_fragmento": "98f6cc67d7190a199292d87283c50c0c4931ef334ebcf2edf73ee21da59ebec5"
+  }
+]

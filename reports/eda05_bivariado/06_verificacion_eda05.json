@@ -1,0 +1,11 @@
+{
+  "estado": "verificado",
+  "tasas_en_rango": true,
+  "filas_dominio_reconciliadas": true,
+  "numerador_reconciliado": true,
+  "archivo_inferencia_con_muestra_completa": true,
+  "intervalos_confianza_calculados": false,
+  "prueba_predictiva_evaluada": false,
+  "figuras_png": 6,
+  "figuras_svg": 6
+}

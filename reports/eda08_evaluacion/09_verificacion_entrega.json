@@ -1,0 +1,20 @@
+{
+  "estado": "verificado",
+  "evaluacion_unica_cerrada": true,
+  "filas_prueba_reportadas": 7791,
+  "upm_prueba_reportadas": 1269,
+  "modelos": [
+    "base",
+    "logistica",
+    "boosting"
+  ],
+  "metricas_con_ic": 30,
+  "comparaciones_pareadas": 5,
+  "brechas_con_ic": 16,
+  "replicas_bootstrap": 1000,
+  "figuras_png": 5,
+  "figuras_svg": 5,
+  "cuaderno_no_reabre_prueba": true,
+  "hiperparametros_reajustados": false,
+  "umbrales_reajustados": false
+}

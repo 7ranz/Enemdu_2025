@@ -1,0 +1,16 @@
+{
+  "estado": "evaluacion_unica_completada",
+  "fecha": "2026-09-30",
+  "filas_prueba": 7791,
+  "upm_prueba": 1269,
+  "prevalencia_ponderada_prueba": 0.6873015034045015,
+  "roc_auc_logistica": 0.6736026015900964,
+  "roc_auc_boosting": 0.6841842822143849,
+  "diferencia_auc_boosting_menos_logistica": 0.010581680624288436,
+  "brier_logistica": 0.19817012629045513,
+  "brier_boosting": 0.19532740457855846,
+  "replicas_bootstrap_validas": 1000,
+  "hiperparametros_reajustados": false,
+  "umbrales_reajustados": false,
+  "prueba_reservada_evaluada": true
+}

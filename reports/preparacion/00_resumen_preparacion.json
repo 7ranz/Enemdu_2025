@@ -1,0 +1,144 @@
+{
+  "ejecutado_utc": "2026-09-28T05:47:38.533552+00:00",
+  "config_sha256": "9b7527e3037f71a84b6f235016429c6b5c9d6e25398958d9b33cabcfd48e9c53",
+  "fuente_sha256": "a2dc06b14b84ac2908f59313a70676f9b5c1b697b4780e744452585e60dbcbe8",
+  "asignacion_upm_sha256": "db5368f6c66bfde7494b1a56101e7d2c2be5875629e9f9c84af6754409861067",
+  "semilla": 20250928,
+  "filas_completas": 334786,
+  "columnas_originales_conservadas": 139,
+  "columnas_derivadas": 26,
+  "filas_dominio": 39551,
+  "filas_modelo": 39293,
+  "sin_etiqueta_condact6": 258,
+  "filas_ocupados": 36906,
+  "filas_ingreso_monto_observado": 35080,
+  "predictores": [
+    "edad_limite_inferior",
+    "edad_98_mas",
+    "p02",
+    "p06",
+    "p07",
+    "p10a",
+    "p15",
+    "prov",
+    "area",
+    "mes"
+  ],
+  "particiones": [
+    {
+      "uso": "muestra_completa",
+      "particion": "entrenamiento",
+      "registros": 267761,
+      "upm": 6202,
+      "estratos": 150,
+      "suma_fexp_original": 15367481.738685293
+    },
+    {
+      "uso": "muestra_completa",
+      "particion": "prueba",
+      "registros": 67025,
+      "upm": 1578,
+      "estratos": 150,
+      "suma_fexp_original": 3487560.532048785
+    },
+    {
+      "uso": "dominio_estudio",
+      "particion": "entrenamiento",
+      "registros": 31722,
+      "upm": 5057,
+      "estratos": 150,
+      "suma_fexp_original": 1114762.0681507355
+    },
+    {
+      "uso": "dominio_estudio",
+      "particion": "prueba",
+      "registros": 7829,
+      "upm": 1269,
+      "estratos": 149,
+      "suma_fexp_original": 268012.2805447523
+    },
+    {
+      "uso": "modelo_principal",
+      "particion": "entrenamiento",
+      "registros": 31502,
+      "upm": 5054,
+      "estratos": 150,
+      "suma_fexp_original": 1105197.6774319257
+    },
+    {
+      "uso": "modelo_principal",
+      "particion": "prueba",
+      "registros": 7791,
+      "upm": 1269,
+      "estratos": 149,
+      "suma_fexp_original": 267004.06120693265
+    }
+  ],
+  "filas_eliminadas_muestra_completa": 0,
+  "celdas_imputadas": 0,
+  "ingresos_recortados": 0,
+  "solapamientos": [
+    {
+      "clave": "upm",
+      "claves_entrenamiento": 6202,
+      "claves_prueba": 1578,
+      "claves_compartidas": 0
+    },
+    {
+      "clave": "id_vivienda_sin_mes",
+      "claves_entrenamiento": 53642,
+      "claves_prueba": 13475,
+      "claves_compartidas": 0
+    },
+    {
+      "clave": "id_hogar_sin_mes",
+      "claves_entrenamiento": 53868,
+      "claves_prueba": 13540,
+      "claves_compartidas": 0
+    },
+    {
+      "clave": "clave_posicion_sin_mes",
+      "claves_entrenamiento": 175984,
+      "claves_prueba": 43794,
+      "claves_compartidas": 0
+    }
+  ],
+  "prueba_evaluada": false,
+  "productos": [
+    {
+      "archivo": "personas_tratada_completa.csv.gz",
+      "filas": 334786,
+      "columnas": 165,
+      "bytes": 15933341,
+      "sha256": "519a5e3745f5e068465a79122efcffa21ccc0355965cb2def50c3b46ce1eb621"
+    },
+    {
+      "archivo": "dominio_educacion_superior.csv",
+      "filas": 39551,
+      "columnas": 165,
+      "bytes": 23056036,
+      "sha256": "7ac355ae3bca4e31245356660f7c98f6c9ba7128a23d15fe5aa15f61000c30a1"
+    },
+    {
+      "archivo": "ocupados_ingresos.csv",
+      "filas": 36906,
+      "columnas": 18,
+      "bytes": 4521334,
+      "sha256": "80a494cf07030d1b16631b261e4fb30867a1a747e07985e935c10748a135c471"
+    },
+    {
+      "archivo": "modelado/entrenamiento.csv",
+      "filas": 31502,
+      "columnas": 20,
+      "bytes": 4965180,
+      "sha256": "058f2f7b7f269bb011240c6a038aae6890398f09e16a6993f71f83b091def2f4"
+    },
+    {
+      "archivo": "modelado/prueba_reservada.csv",
+      "filas": 7791,
+      "columnas": 20,
+      "bytes": 1165883,
+      "sha256": "1763f3a95dcade1340e4fb7abea2b72451892048d9787016726d58ef0d38473b"
+    }
+  ]
+}

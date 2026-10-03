@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "fecha": "2026-09-30",
+  "titulo": "Observatorio de educación superior y empleo en Ecuador",
+  "subtitulo": "ENEMDU anual 2025 · estimación ponderada, asociaciones y evaluación predictiva",
+  "universo": "PEA de 15 años o más con educación superior reportada y título declarado",
+  "indicadores": {
+    "Empleo adecuado": "adecuado_descriptivo",
+    "Subempleo": "subempleo_descriptivo",
+    "Desempleo": "desempleo_descriptivo"
+  },
+  "filtros": ["prov", "p02", "area", "p10a", "edad_limite_inferior", "mes"],
+  "umbral_n_alerta": 100,
+  "umbral_cv_alerta": 20,
+  "nota_inferencia": "Intervalos de Taylor con UPM centradas dentro de estratos, t con 7.630 grados de libertad y transformación logit para proporciones.",
+  "nota_modelos": "La regresión logística es la referencia principal. El boosting es un comparador; su ventaja puntual en prueba no fue concluyente.",
+  "privacidad": "La aplicación utiliza una base analítica sin identificadores de persona, hogar o vivienda."
+}

@@ -1,0 +1,47 @@
+{
+  "estado": "verificado",
+  "filas_originales_contrastadas": 334786,
+  "columnas_originales_contrastadas": 139,
+  "productos": [
+    {
+      "archivo": "personas_tratada_completa.csv.gz",
+      "filas_verificadas": 334786,
+      "columnas_verificadas": 165,
+      "sha256_correcto": true
+    },
+    {
+      "archivo": "dominio_educacion_superior.csv",
+      "filas_verificadas": 39551,
+      "columnas_verificadas": 165,
+      "sha256_correcto": true
+    },
+    {
+      "archivo": "ocupados_ingresos.csv",
+      "filas_verificadas": 36906,
+      "columnas_verificadas": 18,
+      "sha256_correcto": true
+    },
+    {
+      "archivo": "modelado/entrenamiento.csv",
+      "filas_verificadas": 31502,
+      "columnas_verificadas": 20,
+      "sha256_correcto": true
+    },
+    {
+      "archivo": "modelado/prueba_reservada.csv",
+      "filas_verificadas": 7791,
+      "columnas_verificadas": 20,
+      "sha256_correcto": true
+    }
+  ],
+  "columnas_diccionario": 165,
+  "solapamientos_entre_particiones": 0,
+  "solapamientos_entre_pliegues": 0,
+  "asignacion_reproducida_sin_y": true,
+  "estratos_dominio_sin_casos_en_prueba": [
+    "1321"
+  ],
+  "mayor_diferencia_covariable_pp_absoluta": 1.4437900583836427,
+  "prueba_evaluada": false,
+  "advertencia": "Balance de covariables revisado una vez; no se cambiaron semilla ni partición. No se evaluaron modelos ni métricas sobre prueba."
+}

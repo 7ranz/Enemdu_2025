@@ -1,0 +1,16 @@
+{
+  "estado": "verificado",
+  "filas_dashboard": 39551,
+  "columnas_dashboard": 21,
+  "upm_diseno": 7780,
+  "identificadores_personales": 0,
+  "ingresos_observados": 35080,
+  "tasa_nacional_reconciliada": true,
+  "brecha_sexo_reconciliada": true,
+  "excepciones_estado_inicial": 0,
+  "componentes_metricas": 11,
+  "componentes_graficos": 10,
+  "filtro_vacio_controlado": true,
+  "pestañas": 6,
+  "interfaz_repuntua_prueba": false
+}

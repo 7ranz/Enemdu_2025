@@ -1,0 +1,1042 @@
+{
+  "fuente": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/EMPLEO/2025/anual/1_BDD_ENEMDU_2025_SPSS.zip",
+  "sha256": "386938a471f7c0cc38ba484b3beeb4d989b5c22a729041dd26c65edd4a83cd03",
+  "archivo": "BDDenemdu_personas_2025_anual.sav",
+  "columnas": [
+    "area",
+    "ciudad",
+    "conglomerado",
+    "panelm",
+    "vivienda",
+    "hogar",
+    "p01",
+    "p02",
+    "p03",
+    "p04",
+    "p05a",
+    "p05b",
+    "p06",
+    "p07",
+    "p08",
+    "p09",
+    "p10a",
+    "p10b",
+    "p11",
+    "p12a",
+    "p12b",
+    "p15",
+    "p15aa",
+    "p15ab",
+    "cod_inf",
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p41",
+    "p42",
+    "p42a",
+    "p43",
+    "p44a",
+    "p44b",
+    "p44c",
+    "p44d",
+    "p44e",
+    "p44f",
+    "p44g",
+    "p44h",
+    "p44i",
+    "p44j",
+    "p44k",
+    "p45",
+    "p46",
+    "p47a",
+    "p47b",
+    "p48",
+    "p49",
+    "p50",
+    "p51a",
+    "p51b",
+    "p51c",
+    "p52",
+    "p53",
+    "p54",
+    "p54a",
+    "p55",
+    "p56a",
+    "p56b",
+    "p57",
+    "p58",
+    "p61b1",
+    "p63",
+    "p64a",
+    "p64b",
+    "p65",
+    "p66",
+    "p67",
+    "p68a",
+    "p68b",
+    "p69",
+    "p70a",
+    "p70b",
+    "p71a",
+    "p71b",
+    "p72a",
+    "p72b",
+    "p73a",
+    "p73b",
+    "p74a",
+    "p74b",
+    "p75",
+    "p76",
+    "p77",
+    "p78",
+    "sd01",
+    "sd021",
+    "sd022",
+    "sd023",
+    "sd024",
+    "sd025",
+    "sd026",
+    "sd027",
+    "sd028",
+    "sd029",
+    "sd0210",
+    "sd0211",
+    "sd03",
+    "ced01a",
+    "estrato",
+    "fexp",
+    "nnivins",
+    "ingrl",
+    "ingpc",
+    "condact",
+    "empleo",
+    "desempleo",
+    "secemp",
+    "grupo1",
+    "rama1",
+    "prov",
+    "dominio",
+    "pobreza",
+    "epobreza",
+    "upm",
+    "id_vivienda",
+    "id_hogar",
+    "id_persona",
+    "periodo",
+    "mes"
+  ],
+  "etiquetas_variables": {
+    "area": "Area",
+    "ciudad": "Ciudad",
+    "conglomerado": "Conglomerado",
+    "panelm": "Panelm",
+    "vivienda": "Vivienda",
+    "hogar": "Hogar",
+    "p01": "Persona",
+    "p02": "Sexo",
+    "p03": "Edad",
+    "p04": "Relación de Parentesco",
+    "p05a": "Seguro Social - Alternativa 1",
+    "p05b": "Seguro Social - Alternativa 2",
+    "p06": "Estado civil",
+    "p07": "Asiste a clases",
+    "p08": "Jornada a la que asiste",
+    "p09": "Razón por la que no asiste",
+    "p10a": "Nivel de instrucción",
+    "p10b": "Año aprobado",
+    "p11": "Sabe leer y escribir",
+    "p12a": "Por sus estudios obtuvo algún título",
+    "p12b": "Qué título obtuvo",
+    "p15": "Como se considera",
+    "p15aa": "Dónde nació",
+    "p15ab": "Lugar de nacimiento",
+    "cod_inf": "Código del Informante",
+    "p20": "Trabajó la semana pasada",
+    "p21": "Actividad que realizó para ayudar en su hogar",
+    "p22": "Tiene trabajo del cual estuvo ausente",
+    "p23": "Razón por la que no trabajó",
+    "p24": "Horas de trabajo en la semana anterior",
+    "p25": "Razón por la que trabajó menos de 40 horas",
+    "p26": "Razón por la que trabajó mas de 40 horas",
+    "p27": "Desea trabajar más horas",
+    "p28": "Está disponible para trabajar horas adicionales",
+    "p29": "Cuántas horas a la semana estaría disponible para trabajar",
+    "p30": "Gestión realizada para cambiar la situación actual de trabajo",
+    "p31": "Razón por la que busca cambiar la situación actual de trabajo",
+    "p32": "Buscó trabajo el mes anterior",
+    "p33": "Semanas que busca trabajo",
+    "p34": "Razón por la que no buscó trabajo",
+    "p35": "Desea trabajar y está dispuesto a hacerlo",
+    "p36": "Condición de inactividad",
+    "p37": "Trabajó anteriormente",
+    "p38": "Motivos por los que dejó de trabajar",
+    "p39": "Número de semanas que no trabaja",
+    "p40": "Rama de actividad",
+    "p41": "Grupo de ocupación",
+    "p42": "Categoría de ocupación",
+    "p42a": "Es socio de cooperativa o asociación",
+    "p43": "El trabajo que tiene es",
+    "p44a": "Recibe alimentación",
+    "p44b": "Recibe vivienda",
+    "p44c": "Recibe transporte",
+    "p44d": "Recibe vacaciones",
+    "p44e": "Recibe ropa de trabajo",
+    "p44f": "Recibe seguro social",
+    "p44g": "Recibe seguro médico",
+    "p44h": "Recibe guardería",
+    "p44i": "Recibe cursos de capacitación",
+    "p44j": "Recibe 13vo sueldo",
+    "p44k": "Recibe 14vo sueldo",
+    "p45": "Cuántos años trabaja",
+    "p46": "Sitio de trabajo",
+    "p47a": "Tamaño del establecimiento",
+    "p47b": "Número personas trabajan en el establecimiento",
+    "p48": "En el establecimiento se lleva",
+    "p49": "El establecimiento tiene RUC",
+    "p50": "Número de trabajos",
+    "p51a": "Horas de trabajo principal",
+    "p51b": "Horas de trabajo secundario",
+    "p51c": "Horas de otros trabajos",
+    "p52": "Rama de actividad - trabajo secundario",
+    "p53": "Grupo de ocupación - trabajo secundario",
+    "p54": "Categoría de ocupación - trabajo secundario",
+    "p54a": "Es socio de cooperativa o asociación",
+    "p55": "Sitio de trabajo secundario",
+    "p56a": "Tamaño establecimiento - trabajo secundario",
+    "p56b": "Personas que trabajan - trabajo secundario",
+    "p57": "En el establecimiento de trabajo secundario se lleva",
+    "p58": "El establecimiento de trabajo secundario tiene RUC",
+    "p61b1": "A cuál de las siguientes formas de seguridad social aporta actualmente",
+    "p63": "Ingresos - Patronos Cuenta Propia",
+    "p64a": "Retiró bienes del negocio",
+    "p64b": "Monto de retiro de bienes del negocio",
+    "p65": "Monto gastado en funcionamiento negocio",
+    "p66": "Ingreso de asalariados y/o empleados domésticos",
+    "p67": "Descuentos de asalariados",
+    "p68a": "Recibió ingreso en especies",
+    "p68b": "Ingreso en especies de asalariados",
+    "p69": "Ingreso ocup. secundaria - asalariados e independientes",
+    "p70a": "Recibió pago en especies - trabajo secundario",
+    "p70b": "Pago en especies - trabajo secundario",
+    "p71a": "Recibió ingresos derivados del capital",
+    "p71b": "Ingreso recibido por transacciones de capital",
+    "p72a": "Recibe jubilación o pensiones",
+    "p72b": "Ingreso por jubilación o pensiones",
+    "p73a": "Recibió regalos o donaciones",
+    "p73b": "Ingreso por regalos o donaciones - Monto",
+    "p74a": "Recibió dinero del exterior",
+    "p74b": "Ingreso del exterior - Monto",
+    "p75": "Recibió el BONO DE DESARROLLO HUMANO",
+    "p76": "Monto que recibió por el BONO DE DESARROLLO HUMANO",
+    "p77": "Recibe el BONO DE DISCAPACIDAD",
+    "p78": "Monto recibido por el BONO DE DISCAPACIDAD",
+    "sd01": "Realizó USTED algún trabajo por paga o para obtener ganancias",
+    "sd021": "La semana pasada que no tenía trabajo - Estudió o estuvo capacitándose",
+    "sd022": "La semana pasada que no tenía trabajo - Hizo actividades de esparcimiento (deporte)",
+    "sd023": "La semana pasada que no tenía trabajo - Realizó alguna gestión para buscar trabajo",
+    "sd024": "La semana pasada que no tenía trabajo - Ayudó o se dedicó a otras labores del hogar o la familia",
+    "sd025": "La semana pasada que no tenía trabajo - Ayudó como voluntario/a",
+    "sd026": "La semana pasada que no tenía trabajo - Realizó trabajo agrícola, cría animales o pesca",
+    "sd027": "La semana pasada que no tenía trabajo - Realizó manualidades o tejidos para la venta",
+    "sd028": "La semana pasada que no tenía trabajo - Ayudó en algún negocio familiar",
+    "sd029": "La semana pasada que no tenía trabajo - Dio clases particulares, tareas dirigidas pagadas",
+    "sd0210": "La semana pasada que no tenía trabajo - Realizó venta de productos por internet, catálogo o venta directa",
+    "sd0211": "La semana pasada que no tenía trabajo - Otro (especificar)",
+    "sd03": "El principal motivo por el que usted está sin trabajo es:",
+    "ced01a": "Tiene cédula de identidad",
+    "estrato": "Estrato",
+    "fexp": "Factor de expansión",
+    "nnivins": "Nivel de instrucción",
+    "ingrl": "Ingreso Laboral",
+    "ingpc": "Ingreso por cápita",
+    "condact": "Condición de actividad",
+    "empleo": "Población con empleo",
+    "desempleo": "Población con desempleo",
+    "secemp": "Sectores de los Empleados (clasificación para >= 15 años)",
+    "grupo1": "Grupo de Ocupación CIUO8 (población ocupada de 15 años y más)",
+    "rama1": "Rama de Actividad CIIU 4.0 (población ocupada de 15 años y más)",
+    "prov": "Provincia",
+    "dominio": "Dominios",
+    "pobreza": "Pobreza",
+    "epobreza": "Pobreza extrema",
+    "upm": "Unidad Primaria de Muestreo",
+    "id_vivienda": "Identificador de vivienda",
+    "id_hogar": "Identificador de hogar",
+    "id_persona": "Identificador de persona",
+    "periodo": "Periodo",
+    "mes": "Mes de levantamiento"
+  },
+  "etiquetas_valores": {
+    "area": {
+      "1.0": " Urbana",
+      "2.0": " Rural"
+    },
+    "vivienda": {
+      "10": "Vivienda Diez (reemplazo)",
+      "01": "Vivienda Uno",
+      "02": "Vivienda Dos",
+      "03": "Vivienda Tres",
+      "04": "Vivienda Cuatro",
+      "05": "Vivienda Cinco",
+      "06": "Vivienda Seis",
+      "07": "Vivienda Siete",
+      "08": "Vivienda Ocho (reemplazo)",
+      "09": "Vivienda Nueve (reemplazo)"
+    },
+    "hogar": {
+      "1": " Hogar Uno",
+      "2": " Hogar Dos",
+      "3": " Hogar Tres",
+      "4": " Hogar Cuatro",
+      "5": " Hogar Cinco"
+    },
+    "p01": {
+      "10": "Persona 10",
+      "20": "Persona 20",
+      "01": "Persona 1",
+      "11": "Persona 11",
+      "21": "Persona 21",
+      "02": "Persona 2",
+      "12": "Persona 12",
+      "22": "Persona 22",
+      "03": "Persona 3",
+      "13": "Persona 13",
+      "23": "Persona 23",
+      "04": "Persona 4",
+      "14": "Persona 14",
+      "24": "Persona 24",
+      "05": "Persona 5",
+      "15": "Persona 15",
+      "25": "Persona 25",
+      "06": "Persona 6",
+      "16": "Persona 16",
+      "07": "Persona 7",
+      "17": "Persona 17",
+      "08": "Persona 8",
+      "18": "Persona 18",
+      "09": "Persona 9",
+      "19": "Persona 19"
+    },
+    "p02": {
+      "1.0": " Hombre",
+      "2.0": " Mujer"
+    },
+    "p03": {
+      "98.0": " 98 y más",
+      "99.0": " No informa"
+    },
+    "p04": {
+      "1.0": " Jefe",
+      "2.0": " Cónyuge",
+      "3.0": " Hijo o Hija",
+      "4.0": " Yerno o nuera",
+      "5.0": " Nieto o nieta",
+      "6.0": " Padres o suegros",
+      "7.0": " Otros parientes",
+      "8.0": " Empleado(a) doméstico(a)",
+      "9.0": " Otros no parientes"
+    },
+    "p05a": {
+      "1.0": " IESS, seguro general",
+      "2.0": " IESS, seguro general voluntario",
+      "3.0": " IESS, seguro  campesino",
+      "4.0": " ISSFA, ISSPOL",
+      "5.0": " Seguro privado con hospitalización",
+      "6.0": " Seguro privado sin hospitalización",
+      "7.0": " AUS",
+      "8.0": " Seguros Municipales",
+      "9.0": " Seguro Ministerio Salud Pública",
+      "10.0": " Ninguno"
+    },
+    "p05b": {
+      "1.0": " IESS, seguro general",
+      "2.0": " IESS, seguro general voluntario",
+      "3.0": " IESS, seguro  campesino",
+      "4.0": " ISSFA, ISSPOL",
+      "5.0": " Seguro privado con hospitalización",
+      "6.0": " Seguro privado sin hospitalización",
+      "7.0": " AUS",
+      "8.0": " Seguros Municipales",
+      "9.0": " Seguro Ministerio Salud Pública",
+      "10.0": " Ninguno"
+    },
+    "p06": {
+      "1.0": " Casado(a)",
+      "2.0": " Separado(a)",
+      "3.0": " Divorciado(a)",
+      "4.0": " Viudo(a)",
+      "5.0": " Unión libre",
+      "6.0": " Soltero(a)"
+    },
+    "p07": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p08": {
+      "1.0": " La mañana",
+      "2.0": " La tarde",
+      "3.0": " La Noche",
+      "4.0": " Jornada Integral",
+      "5.0": " Dos Jornadas",
+      "6.0": " A distancia"
+    },
+    "p09": {
+      "1.0": " Edad",
+      "2.0": " Terminó sus estudios",
+      "3.0": " Falta de recursos económicos",
+      "4.0": " Por fracaso escolar",
+      "5.0": " Por trabajo",
+      "6.0": " Por asistir a nivelación SENESCYT",
+      "7.0": " Por enfermedad o discapacidad",
+      "8.0": " Por ayudar en quehaceres del hogar",
+      "9.0": " La familia no le permite estudiar",
+      "10.0": " No hay establecimientos educación",
+      "11.0": " No está interesado en estudiar",
+      "12.0": " Por embarazo",
+      "13.0": " Por falta de cupo",
+      "14.0": " Por temor a los compañeros",
+      "15.0": " Por cuidado de los hijos",
+      "16.0": "Por falta de recursos tecnológicos (internet, computadora,celular)",
+      "17.0": " Otra"
+    },
+    "p10a": {
+      "1.0": " Ninguno",
+      "2.0": " Centro de alfabetización",
+      "3.0": " Jardín de infantes",
+      "4.0": " Primaria",
+      "5.0": " Educación Básica",
+      "6.0": " Secundaria",
+      "7.0": " Educación  Media",
+      "8.0": " Superior no universitario",
+      "9.0": " Superior Universitario",
+      "10.0": " Post-grado"
+    },
+    "p11": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p12a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p12b": {
+      "999999.0": " NS"
+    },
+    "p15": {
+      "1.0": " Indígena",
+      "2.0": " Afroecuatoriano",
+      "3.0": " Negro",
+      "4.0": " Mulato",
+      "5.0": " Montuvio",
+      "6.0": " Mestizo",
+      "7.0": " Blanco",
+      "8.0": " Otra"
+    },
+    "p15aa": {
+      "1.0": " En esta ciudado  o parroquia rural",
+      "2.0": " En otro lugar del pais",
+      "3.0": " En otro pais"
+    },
+    "cod_inf": {
+      "1.0": " Persona 1",
+      "2.0": " Persona 2",
+      "3.0": " Persona 3",
+      "4.0": " Persona 4",
+      "5.0": " Persona 5",
+      "6.0": " Persona 6",
+      "7.0": " Persona 7",
+      "8.0": " Persona 8",
+      "9.0": " Persona 9",
+      "10.0": " Persona 10",
+      "11.0": " Persona 11",
+      "12.0": " Persona 12",
+      "13.0": " Persona 13",
+      "14.0": " Persona 14",
+      "15.0": " Persona 15",
+      "16.0": " Persona 16",
+      "17.0": " Persona 17",
+      "18.0": " Persona 18",
+      "19.0": " Persona 19",
+      "20.0": " Persona 20",
+      "21.0": " Persona 21",
+      "22.0": " Persona 22",
+      "23.0": " Persona 23",
+      "24.0": " Persona 24",
+      "25.0": " Persona 25"
+    },
+    "p20": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p21": {
+      "1.0": " Atender negocio propio",
+      "2.0": " Fabricar algún producto",
+      "3.0": " Hacer algo en casa por un ingreso",
+      "4.0": " Brindar algún servicio",
+      "5.0": " Ayudar en algún negocio familiar",
+      "6.0": " Ayudar en el trabajo de algún familiar",
+      "7.0": " Aprendiz remunerado",
+      "8.0": " Labores agrícolas, cuidado animales",
+      "9.0": " Estudiante que realizó algún trabajo",
+      "10.0": " Trabajar para otra familia",
+      "11.0": " Otra actividad por un ingreso",
+      "12.0": " No realizó ninguna actividad"
+    },
+    "p22": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p23": {
+      "1.0": " Vacaciones",
+      "2.0": " Enfermedad accidente",
+      "3.0": " Huelga o paro",
+      "4.0": " Licencia con sueldo",
+      "5.0": " Licencia sin sueldo",
+      "6.0": " Suspensión temporal del trabajo",
+      "7.0": " Otro"
+    },
+    "p24": {
+      "999.0": " No informan"
+    },
+    "p25": {
+      "1.0": " Su trabajo así lo exige",
+      "2.0": " No consiguió trabajo en otra parte",
+      "3.0": " No consiguió más trabajo",
+      "4.0": " Reducción actividades económicas",
+      "5.0": " Falta de materia prima",
+      "6.0": " Motivos de salud, familiares",
+      "7.0": " Por estudios",
+      "8.0": " Por huelga o paro",
+      "9.0": " No desea o no necesita trabajar más horas"
+    },
+    "p26": {
+      "1.0": " Horario normal",
+      "2.0": " Horas extras",
+      "3.0": " Exceso trabajo",
+      "4.0": " Horas trabajo necesarias",
+      "5.0": " Otro"
+    },
+    "p27": {
+      "1.0": " Trabajar más horas en su trabajo actual",
+      "2.0": " Trabajar más horas en otro trabajo",
+      "3.0": " Cambiar el trabajo por otro con más horas",
+      "4.0": " No desea trabajar más horas"
+    },
+    "p28": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p29": {
+      "999.0": " No informa"
+    },
+    "p30": {
+      "1.0": " Buscar más trabajo",
+      "2.0": " Registro en agencia de empleo",
+      "3.0": " Presentar solicitud a otros empleadores",
+      "4.0": " Pedir ayuda a amigos o familiares",
+      "5.0": " Buscar terreno, edificio,... para propia empresa",
+      "6.0": " Conseguir recursos financieros adicionales",
+      "7.0": " No ha realizado ninguna gestión"
+    },
+    "p31": {
+      "1.0": " Por que no trabaja jornada completa",
+      "2.0": " Inseguridad en su trabajo",
+      "3.0": " Desea ejercer su profesión",
+      "4.0": " Los ingresos no son suficientes",
+      "5.0": " Por otras causas"
+    },
+    "p32": {
+      "1.0": " Acudir a sitios de contratación temporal",
+      "2.0": " Hablar con amigos o parientes",
+      "3.0": " Buscar en la prensa o radio",
+      "4.0": " Acudir a agencias de empleo",
+      "5.0": " Tratar de establecer su propio taller, negocio",
+      "6.0": " Asistir a entrevistas",
+      "7.0": " Colocar carteles en tiendas o negocios",
+      "8.0": " Buscar por Internet",
+      "9.0": " Enviar hoja de vida",
+      "10.0": " Otra gestión",
+      "11.0": " No realizó ninguna gestión"
+    },
+    "p33": {
+      "999.0": " No sabe/ No informa"
+    },
+    "p34": {
+      "1.0": " Trabajo ocasional",
+      "2.0": " Tiene trabajo para empezar inmediatamente",
+      "3.0": " Espera respuesta a una gestión",
+      "4.0": " Espera respuesta de un empleador",
+      "5.0": " Espera cosecha o temporada de trabajo",
+      "6.0": " Piensa que no le darán trabajo",
+      "7.0": " No cree poder encontrar",
+      "8.0": " No tiene necesidad de trabajar",
+      "9.0": " No tiene tiempo",
+      "10.0": " Su cónyuge o familia no le permiten",
+      "11.0": " Está enfermo o incapacitado",
+      "12.0": " No está en edad de trabajar"
+    },
+    "p35": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p36": {
+      "1.0": " Rentista",
+      "2.0": " Jubilado pensión",
+      "3.0": " Estudiante",
+      "4.0": " Ama de casa",
+      "5.0": " Incapacitado",
+      "6.0": " Otro"
+    },
+    "p37": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p38": {
+      "1.0": " Liquidación empresa",
+      "2.0": " Despido intempestivo",
+      "3.0": " Renuncia voluntaria",
+      "4.0": " Supresión partidas",
+      "5.0": " Terminación contrato",
+      "6.0": " Fue mal en el negocio",
+      "7.0": " Terminó ciclo agrícola",
+      "8.0": " Se jubiló o pensionaron",
+      "9.0": " Otro"
+    },
+    "p39": {
+      "999.0": " No sabe/ No informa"
+    },
+    "p40": {
+      "9999.0": " No informa"
+    },
+    "p41": {
+      "9999.0": " No informa"
+    },
+    "p42": {
+      "1.0": " Empleado de gobierno",
+      "2.0": " Empleado privado",
+      "3.0": " Empleado tercerizado",
+      "4.0": " Jornalero o peón",
+      "5.0": " Patrono",
+      "6.0": " Cuenta Propia",
+      "7.0": " Trabajador del hogar no remunerado",
+      "8.0": " Trabajador no del hogar no remunerado",
+      "9.0": " Ayudante no remunerado de asalariado/jornalero",
+      "10.0": " Empleado(a) Doméstico(a)"
+    },
+    "p42a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p43": {
+      "1.0": "Con nombramiento",
+      "2.0": "Con contrato permanente / indefinido / estable o de planta",
+      "3.0": " Con contrato temporal, ocasional o eventual",
+      "4.0": " Por obra, a destajo",
+      "5.0": " Por horas",
+      "6.0": " Por jornal"
+    },
+    "p44a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44b": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44c": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44d": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44e": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44f": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44g": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44h": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44i": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44j": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p44k": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p45": {
+      "99.0": " No informa"
+    },
+    "p46": {
+      "1.0": " Local patrono",
+      "2.0": " Obra en construcción",
+      "3.0": " Se desplaza",
+      "4.0": " En la calle",
+      "5.0": " Kiosco calle",
+      "6.0": " Local propio o arrendado",
+      "7.0": " Local cooperativa u asociación",
+      "8.0": " Vivienda distinta a la suya",
+      "9.0": " Su vivienda",
+      "10.0": " Finca o terreno",
+      "11.0": " Finca terreno ajeno",
+      "12.0": " Finca terreno o establecimiento comunal"
+    },
+    "p47a": {
+      "1.0": " Menos de 100",
+      "2.0": " 100 y más"
+    },
+    "p48": {
+      "1.0": " Registros contables",
+      "2.0": " Cuaderno de cuentas",
+      "3.0": " No lleva contabilidad",
+      "4.0": " No sabe"
+    },
+    "p49": {
+      "1.0": " Si",
+      "2.0": " No",
+      "3.0": " No sabe"
+    },
+    "p50": {
+      "1.0": " Uno",
+      "2.0": " Más de uno"
+    },
+    "p51a": {
+      "999.0": " No informan"
+    },
+    "p51b": {
+      "999.0": " No informan"
+    },
+    "p51c": {
+      "999.0": " No informan"
+    },
+    "p52": {
+      "9999.0": " No informa"
+    },
+    "p53": {
+      "9999.0": " No informa"
+    },
+    "p54": {
+      "1.0": " Empleado de gobierno",
+      "2.0": " Empleado privado",
+      "3.0": " Empleado tercerizado",
+      "4.0": " Jornalero o peón",
+      "5.0": " Patrono",
+      "6.0": " Cuenta Propia",
+      "7.0": " Trabajador del hogar no remunerado",
+      "8.0": " Trabajador no del hogar no remunerado",
+      "9.0": " Ayudante no remunerado de asalariado/jornalero",
+      "10.0": " Empleado(a) Doméstico(a)"
+    },
+    "p54a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p55": {
+      "1.0": " Local patrono",
+      "2.0": " Obra en construcción",
+      "3.0": " Se desplaza",
+      "4.0": " En la calle",
+      "5.0": " Kiosco calle",
+      "6.0": " Local propio o arrendado",
+      "7.0": " Local cooperativa u asociación",
+      "8.0": " Vivienda distinta a la suya",
+      "9.0": " Su vivienda",
+      "10.0": " Finca o terreno",
+      "11.0": " Finca terreno ajeno",
+      "12.0": " Finca terreno o establecimiento comunal"
+    },
+    "p56a": {
+      "1.0": " Menos de 100",
+      "2.0": " 100 y más"
+    },
+    "p57": {
+      "1.0": " Registros contables",
+      "2.0": " Cuaderno de cuentas",
+      "3.0": " No lleva contabilidad",
+      "4.0": " No sabe"
+    },
+    "p58": {
+      "1.0": " Si",
+      "2.0": " No",
+      "3.0": " No sabe"
+    },
+    "p61b1": {
+      "1.0": " IESS General",
+      "2.0": " IESS Voluntario",
+      "3.0": " Seguro Campesino",
+      "4.0": " Seguro del ISSFA o ISSPOL",
+      "5.0": " No aporta",
+      "6.0": " No sabe"
+    },
+    "p64a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p68a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p70a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p71a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p72a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p73a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p74a": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p75": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p76": {
+      "999999.0": " NS"
+    },
+    "p77": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "p78": {
+      "999999.0": " No informa"
+    },
+    "sd01": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd021": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd022": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd023": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd024": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd025": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd026": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd027": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd028": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd029": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd0210": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd0211": {
+      "1.0": " Si",
+      "2.0": " No"
+    },
+    "sd03": {
+      "1.0": " Despido/Renuncia obligatoria",
+      "2.0": " Terminación de contrato",
+      "3.0": " Renuncia voluntaria",
+      "4.0": " Cierre/clausura de la empresa donde trabajaba",
+      "5.0": " Quiebre o cierre de negocio",
+      "6.0": " Terminación de ciclo agrícola o temporada del trabajo",
+      "7.0": " Condiciones climáticas (lluvias, sequías, inundaciones, heladas)",
+      "8.0": " Antes no tuvo necesidad de trabajar",
+      "9.0": " Otro, (especificar)"
+    },
+    "ced01a": {
+      "1.0": " Si",
+      "2.0": " No",
+      "3.0": " No responde"
+    },
+    "nnivins": {
+      "1.0": "Ninguno",
+      "2.0": "Centro de Alfabetización",
+      "3.0": "Educación Básica",
+      "4.0": "Educación Media/Bachillerato",
+      "5.0": "Superior"
+    },
+    "ingrl": {
+      "-1.0": "Gasta mas de lo que gana",
+      "999999.0": "No informa"
+    },
+    "condact": {
+      "0.0": "Menores de 15 años",
+      "1.0": "Empleo Adecuado/Pleno",
+      "2.0": "Subempleo por insuficiencia de tiempo de trabajo",
+      "3.0": "Subempleo por insuficiencia de ingresos",
+      "4.0": "Otro empleo no pleno",
+      "5.0": "Empleo no remunerado",
+      "6.0": "Empleo no clasificado",
+      "7.0": "Desempleo abierto",
+      "8.0": "Desempleo oculto",
+      "9.0": "Población Económicamente Inactiva"
+    },
+    "empleo": {
+      "1.0": "Población con empleo"
+    },
+    "desempleo": {
+      "1.0": "Población con desempleo"
+    },
+    "secemp": {
+      "1.0": "Sector Formal",
+      "2.0": "Sector Informal",
+      "3.0": "Empleo Doméstico",
+      "4.0": "No Clasificados por Sector"
+    },
+    "grupo1": {
+      "1.0": "Personal direct./admin. pública y empresas",
+      "2.0": "Profesionales científicos e intelectuales",
+      "3.0": "Técnicos y profesionales de nivel medio",
+      "4.0": "Empleados de oficina",
+      "5.0": "Trabajad. de los servicios y comerciantes",
+      "6.0": "Trabajad. calificados agropecuarios y pesqueros",
+      "7.0": "Oficiales operarios y artesanos",
+      "8.0": "Operadores de instalac. máquinas y montad.",
+      "9.0": "Trabajadores no calificados, ocupaciones elementales",
+      "10.0": "Fuerzas Armadas",
+      "99.0": "No especificado"
+    },
+    "rama1": {
+      "1.0": "A. Agricultura, ganadería caza y silvicultura y pesca",
+      "2.0": "B. Explotación de minas y canteras",
+      "3.0": "C. Industrias manufactureras",
+      "4.0": "D. Suministros de electricidad, gas, aire acondicionado",
+      "5.0": "E. Distribución de agua, alcantarillado",
+      "6.0": "F. Construcción",
+      "7.0": "G. Comercio, reparación vehículos",
+      "8.0": "H. Transporte y almacenamiento",
+      "9.0": "I. Actividades de alojamiento y servicios de comida",
+      "10.0": "J. Información y comunicación",
+      "11.0": "K. Actividades financieras y de seguros",
+      "12.0": "L. Actividades inmobiliarias",
+      "13.0": "M. Actividades profesionales, científicas y técnicas",
+      "14.0": "N. Actividades y servicios administrativos y de apoyo",
+      "15.0": "O .Administración pública, defensa y seguridad social",
+      "16.0": "P. Enseñanza",
+      "17.0": "Q. Actividades, servicios sociales y de salud",
+      "18.0": "R. Artes, entretenimiento y recreación",
+      "19.0": "S. Otras actividades de servicios",
+      "20.0": "T  Actividades en hogares privados con servicio doméstico",
+      "21.0": "U  Actividades de organizaciones extraterritoriales",
+      "22.0": "No especificado"
+    },
+    "prov": {
+      "1.0": "Azuay",
+      "2.0": "Bolívar",
+      "3.0": "Cañar",
+      "4.0": "Carchi",
+      "5.0": "Cotopaxi",
+      "6.0": "Chimborazo",
+      "7.0": "El Oro",
+      "8.0": "Esmeraldas",
+      "9.0": "Guayas",
+      "10.0": "Imbabura",
+      "11.0": "Loja",
+      "12.0": "Los Ríos",
+      "13.0": "Manabí",
+      "14.0": "Morona Santiago",
+      "15.0": "Napo",
+      "16.0": "Pastaza",
+      "17.0": "Pichincha",
+      "18.0": "Tungurahua",
+      "19.0": "Zamora Chinchipe",
+      "20.0": "Galapagos",
+      "21.0": "Sucumbíos",
+      "22.0": "Orellana",
+      "23.0": "Santo Domingo de los Tsáchilas",
+      "24.0": "Santa Elena",
+      "90.0": "Zonas no Delimitadas"
+    },
+    "dominio": {
+      "1.0": "Quito",
+      "2.0": "Guayaquil",
+      "3.0": "Cuenca",
+      "4.0": "Machala",
+      "5.0": "Ambato",
+      "6.0": "Resto país"
+    },
+    "pobreza": {
+      "0.0": "NO POBRE",
+      "1.0": "POBRE"
+    },
+    "epobreza": {
+      "0.0": "NO INDIGENTE",
+      "1.0": "INDIGENTE"
+    },
+    "periodo": {
+      "202501.0": "ene-25",
+      "202502.0": "feb-25",
+      "202503.0": "mar-25",
+      "202504.0": "abr-25",
+      "202505.0": "may-25",
+      "202506.0": "jun-25",
+      "202507.0": "jul-25",
+      "202508.0": "ago-25",
+      "202509.0": "sep-25",
+      "202510.0": "oct-25",
+      "202511.0": "nov-25",
+      "202512.0": "dic-25"
+    }
+  },
+  "rangos_missing": {},
+  "pyreadstat_version": "1.3.6"
+}

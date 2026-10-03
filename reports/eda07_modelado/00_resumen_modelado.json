@@ -1,0 +1,11 @@
+{
+  "estado": "completado_y_congelado",
+  "modelo_logistico": "C=1",
+  "modelo_boosting": "B1",
+  "roc_auc_oof_logistica": 0.6692654419182887,
+  "roc_auc_oof_boosting": 0.6894962621351086,
+  "diferencia_auc_boosting_menos_logistica": 0.020230820216819878,
+  "prueba_reservada_evaluada": false,
+  "asociaciones_ajustadas_estimadas": true,
+  "modelado_interpretable_preparado": true
+}

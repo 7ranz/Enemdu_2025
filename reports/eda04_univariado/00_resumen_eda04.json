@@ -1,0 +1,26 @@
+{
+  "estado": "completado",
+  "filas_dominio": 39551,
+  "filas_entrenamiento_objetivo": 31502,
+  "filas_ocupados": 36906,
+  "ingresos_observados": 35080,
+  "variables_categoricas": [
+    "p02",
+    "p06",
+    "p07",
+    "p10a",
+    "p15",
+    "prov",
+    "area",
+    "mes"
+  ],
+  "variables_numericas": [
+    "edad_limite_inferior"
+  ],
+  "maximo_faltante_covariables_porcentaje": 0.0,
+  "edad_media_ponderada": 39.062487828342164,
+  "edad_mediana_ponderada": 37.0,
+  "ingreso_mediano_ponderado_observado": 778.0,
+  "prueba_reservada_leida": false,
+  "nota_inferencia": "Los porcentajes son descriptivos ponderados; intervalos de confianza y contrastes con diseño se calcularán en una etapa posterior."
+}

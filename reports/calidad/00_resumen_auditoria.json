@@ -1,0 +1,240 @@
+{
+  "ejecutado_utc": "2026-09-28T04:53:46.575755+00:00",
+  "python": "3.12.14",
+  "pandas": "3.0.1",
+  "numpy": "2.3.5",
+  "sha256_original": "a2dc06b14b84ac2908f59313a70676f9b5c1b697b4780e744452585e60dbcbe8",
+  "original_sin_cambios": true,
+  "filas_personas": 334786,
+  "columnas_personas": 139,
+  "filas_vivienda_hogar": 104738,
+  "columnas_vivienda_hogar": 35,
+  "meses": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "reglas_distintas": 73,
+  "candidatos_previamente": 39551,
+  "candidatos_edad_conocida": 39551,
+  "candidatos_condact6": 258,
+  "reconstruccion_identificadores_completa": true,
+  "estratos": 150,
+  "estratos_una_upm_muestra": 0,
+  "estratos_una_upm_dominio": 0,
+  "peso_total": 18855042.27073408,
+  "reglas_con_alertas": [
+    {
+      "regla": "Q04",
+      "descripcion": "Edad 98: categoría abierta 98 y más según etiquetas SPSS 2025",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 224
+    },
+    {
+      "regla": "NR_p63",
+      "descripcion": "No respuesta 999999 en p63",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 239
+    },
+    {
+      "regla": "NR_p64b",
+      "descripcion": "No respuesta 999999 en p64b",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 21
+    },
+    {
+      "regla": "NR_p65",
+      "descripcion": "No respuesta 999999 en p65",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 234
+    },
+    {
+      "regla": "NR_p66",
+      "descripcion": "No respuesta 999999 en p66",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 241
+    },
+    {
+      "regla": "NR_p67",
+      "descripcion": "No respuesta 999999 en p67",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 231
+    },
+    {
+      "regla": "NR_p68b",
+      "descripcion": "No respuesta 999999 en p68b",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 37
+    },
+    {
+      "regla": "NR_p69",
+      "descripcion": "No respuesta 999999 en p69",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 10
+    },
+    {
+      "regla": "NR_p70b",
+      "descripcion": "No respuesta 999999 en p70b",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 1
+    },
+    {
+      "regla": "NR_p71b",
+      "descripcion": "No respuesta 999999 en p71b",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 23
+    },
+    {
+      "regla": "NR_p72b",
+      "descripcion": "No respuesta 999999 en p72b",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 223
+    },
+    {
+      "regla": "NR_p73b",
+      "descripcion": "No respuesta 999999 en p73b",
+      "tipo": "codigo_especial",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 13
+    },
+    {
+      "regla": "I_ingrl_negativo",
+      "descripcion": "Valor negativo de ingrl; revisar semántica de código",
+      "tipo": "revision",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 1471
+    },
+    {
+      "regla": "I_ingrl_alto",
+      "descripcion": "ingrl >=999999; revisar códigos especiales",
+      "tipo": "revision",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 480
+    },
+    {
+      "regla": "I_faltante_ocupado",
+      "descripcion": "Ingreso laboral vacío entre ocupados candidatos",
+      "tipo": "revision",
+      "mes": "ANUAL",
+      "n_aplicables": 36906,
+      "n_alertas": 1412
+    },
+    {
+      "regla": "L_no_clasificado",
+      "descripcion": "Empleo no clasificado dentro de candidatos",
+      "tipo": "decision_analitica",
+      "mes": "ANUAL",
+      "n_aplicables": 39551,
+      "n_alertas": 258
+    },
+    {
+      "regla": "ID_upm_geografia",
+      "descripcion": "Prefijo de UPM distinto de ciudad normalizada; conservar y revisar geografía",
+      "tipo": "revision_cartografica",
+      "mes": "ANUAL",
+      "n_aplicables": 334786,
+      "n_alertas": 1787
+    }
+  ],
+  "repeticion": [
+    {
+      "nivel": "id_vivienda",
+      "claves_sin_mes": 67117,
+      "claves_en_varios_meses": 37216,
+      "max_meses": 2,
+      "filas_en_claves_repetidas": 240391
+    },
+    {
+      "nivel": "id_hogar",
+      "claves_sin_mes": 67408,
+      "claves_en_varios_meses": 37330,
+      "max_meses": 2,
+      "filas_en_claves_repetidas": 240115
+    },
+    {
+      "nivel": "id_persona",
+      "claves_sin_mes": 219778,
+      "claves_en_varios_meses": 115008,
+      "max_meses": 2,
+      "filas_en_claves_repetidas": 230016
+    }
+  ],
+  "cambios_posicion_persona": [
+    {
+      "revision": "sexo_cambia",
+      "pares_comparables": 115008,
+      "pares_con_senal": 5969
+    },
+    {
+      "revision": "edad_disminuye_o_aumenta_mas_de_un_ano",
+      "pares_comparables": 114913,
+      "pares_con_senal": 25871
+    },
+    {
+      "revision": "titulo_si_a_no",
+      "pares_comparables": 115008,
+      "pares_con_senal": 653
+    }
+  ],
+  "integridad_relacional": [
+    {
+      "control": "personas_sin_hogar_en_tabla_vivienda",
+      "n": 0
+    },
+    {
+      "control": "hogares_tabla_vivienda_sin_personas",
+      "n": 0
+    },
+    {
+      "control": "diferencia_area_persona_vivienda",
+      "n": 0
+    },
+    {
+      "control": "diferencia_upm_persona_vivienda",
+      "n": 0
+    },
+    {
+      "control": "diferencia_estrato_persona_vivienda",
+      "n": 0
+    },
+    {
+      "control": "diferencia_fexp_persona_vivienda",
+      "n": 0
+    }
+  ],
+  "limite": "Auditoría automatizada exhaustiva de estructura y perfiles; reglas semánticas para variables del estudio. No certifica todas las respuestas ni reconstruye cada salto del cuestionario."
+}

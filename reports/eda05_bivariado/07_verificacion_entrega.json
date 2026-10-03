@@ -1,0 +1,22 @@
+{
+  "estado": "verificado",
+  "productos_manifestados": 17,
+  "filas_diseno": 334786,
+  "filas_dominio": 39551,
+  "estratos": 150,
+  "upm": 7780,
+  "grados_libertad_diseno": 7630,
+  "tasas_principales_recalculadas": true,
+  "figuras_png": 6,
+  "figuras_svg": 6,
+  "celdas_cuaderno": 15,
+  "celdas_codigo_ejecutadas": 7,
+  "errores_cuaderno": 0,
+  "intervalos_confianza_calculados": false,
+  "prueba_predictiva_evaluada": false,
+  "programas_sintaxis_valida": [
+    "04_analisis_bivariado.py",
+    "04a_crear_cuaderno_bivariado.py",
+    "04b_verificar_eda05.py"
+  ]
+}

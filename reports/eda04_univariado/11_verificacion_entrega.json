@@ -1,0 +1,16 @@
+{
+  "estado": "verificado",
+  "productos_manifestados": 20,
+  "tablas_csv": 9,
+  "figuras_png": 6,
+  "figuras_svg": 6,
+  "celdas_cuaderno": 13,
+  "celdas_codigo_ejecutadas": 6,
+  "errores_cuaderno": 0,
+  "programas_sintaxis_valida": [
+    "03_analisis_univariado.py",
+    "03a_crear_cuaderno_univariado.py",
+    "03b_verificar_eda04.py"
+  ],
+  "prueba_reservada_leida": false
+}

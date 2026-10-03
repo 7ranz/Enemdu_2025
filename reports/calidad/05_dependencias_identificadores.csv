@@ -1,0 +1,14 @@
+﻿clave,atributo,n_claves,claves_con_mas_de_un_valor
+id_persona,id_hogar,334786,0
+id_persona,id_vivienda,334786,0
+id_persona,upm,334786,0
+id_persona,mes,334786,0
+id_hogar,id_vivienda,104738,0
+id_hogar,upm,104738,0
+id_hogar,mes,104738,0
+id_hogar,estrato,104738,0
+id_hogar,prov,104738,0
+id_hogar,area,104738,0
+upm,estrato,7780,0
+upm,prov,7780,0
+upm,area,7780,0

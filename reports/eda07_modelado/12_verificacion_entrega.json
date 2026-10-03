@@ -1,0 +1,20 @@
+{
+  "estado": "verificado",
+  "filas_oof": 31502,
+  "upm_oof": 5054,
+  "cobertura_oof_completa": true,
+  "upm_en_un_pliegue": true,
+  "probabilidades_validas": true,
+  "predictores_prohibidos": 0,
+  "lecturas_programa_principal": [
+    "entrenamiento",
+    "base_completa_para_diseno"
+  ],
+  "modelos_cargan_y_predicen": true,
+  "coeficientes_ajustados": 54,
+  "cuaderno_celdas_codigo": 11,
+  "figuras_png": 4,
+  "figuras_svg": 4,
+  "prueba_reservada_leida": false,
+  "prueba_reservada_evaluada": false
+}
