@@ -73,6 +73,18 @@ Con los modelos congelados, se evaluó una sola vez contra la prueba reservada y
 
 Dashboard interactivo para explorar los resultados.
 
+### Ejecución local
+
+Instala las dependencias y ejecuta la aplicación desde la raíz del proyecto:
+
+```powershell
+python -m pip install -r requirements.txt
+python -m streamlit run dashboard/app.py
+```
+
+### Despliegue en Streamlit Community Cloud
+
+Selecciona la rama `main` y configura **Main file path** como `dashboard/app.py`. Las dependencias se instalan desde `requirements.txt`, ubicado en la raíz del repositorio.
 
 
 ## Fuentes iniciales
